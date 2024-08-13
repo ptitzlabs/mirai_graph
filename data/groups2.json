@@ -1,0 +1,256 @@
+{
+  "nodes": {
+    "Group": [
+      {
+        "id": "asylum_seekers",
+        "name": "Asylum Seekers",
+        "description": "Individuals who have applied for asylum and are awaiting a decision on their refugee status."
+      },
+      {
+        "id": "refugees",
+        "name": "Refugees",
+        "description": "People who have been granted protection under the 1951 Refugee Convention."
+      },
+      {
+        "id": "unaccompanied_minors",
+        "name": "Unaccompanied Minors",
+        "description": "Children under 18 who arrive in a country without a legal guardian."
+      },
+      {
+        "id": "women_refugees",
+        "name": "Women Refugees",
+        "description": "Female refugees, often facing gender-specific challenges and vulnerabilities."
+      },
+      {
+        "id": "disabled_refugees",
+        "name": "Disabled Refugees",
+        "description": "Refugees with physical or mental disabilities requiring specialized support."
+      },
+      {
+        "id": "lgbtq_refugees",
+        "name": "LGBTQ+ Refugees",
+        "description": "Refugees fleeing persecution based on sexual orientation or gender identity."
+      },
+      {
+        "id": "stateless_persons",
+        "name": "Stateless Persons",
+        "description": "Individuals who do not have a recognized nationality and are without legal protection."
+      },
+      {
+        "id": "families",
+        "name": "Families",
+        "description": "Family units seeking asylum together, often with children."
+      },
+      {
+        "id": "war_refugees",
+        "name": "War Refugees",
+        "description": "Individuals fleeing armed conflict in their home country."
+      },
+      {
+        "id": "political_refugees",
+        "name": "Political Refugees",
+        "description": "Refugees fleeing persecution due to political beliefs or activism."
+      },
+      {
+        "id": "ethnic_minority_refugees",
+        "name": "Ethnic Minority Refugees",
+        "description": "Members of ethnic minorities facing persecution and seeking refuge."
+      },
+      {
+        "id": "religious_minority_refugees",
+        "name": "Religious Minority Refugees",
+        "description": "Individuals fleeing persecution based on their religious beliefs."
+      },
+      {
+        "id": "trafficking_survivors",
+        "name": "Trafficking Survivors",
+        "description": "Individuals who have been victims of human trafficking and are seeking protection."
+      },
+      {
+        "id": "health_vulnerable_refugees",
+        "name": "Health Vulnerable Refugees",
+        "description": "Refugees with chronic illnesses or medical conditions requiring care."
+      },
+      {
+        "id": "refugee_elderly",
+        "name": "Refugee Elderly",
+        "description": "Elderly refugees who require special care and support due to their age."
+      },
+      {
+        "id": "students_in_exile",
+        "name": "Students in Exile",
+        "description": "Refugee students seeking education and support in a new country."
+      },
+      {
+        "id": "subsidiary_protection_beneficiaries",
+        "name": "Subsidiary Protection Beneficiaries",
+        "description": "Individuals granted protection due to risk of serious harm in their home country."
+      },
+      {
+        "id": "internally_displaced_persons",
+        "name": "Internally Displaced Persons",
+        "description": "People forced to flee their homes but remain within their country's borders."
+      },
+      {
+        "id": "climate_refugees",
+        "name": "Climate Refugees",
+        "description": "Individuals displaced due to environmental disasters or climate change."
+      },
+      {
+        "id": "pregnant_women",
+        "name": "Pregnant Women",
+        "description": "Vulnerable group of women seeking asylum while pregnant."
+      },
+      {
+        "id": "victims_of_torture",
+        "name": "Victims of Torture",
+        "description": "Survivors of torture seeking refuge from further harm."
+      },
+      {
+        "id": "asylum_seekers_from_safe_countries",
+        "name": "Asylum Seekers from Safe Countries",
+        "description": "Asylum seekers from countries deemed 'safe,' often facing accelerated procedures."
+      },
+      {
+        "id": "single_mothers",
+        "name": "Single Mothers",
+        "description": "Mothers seeking asylum while raising children alone."
+      },
+      {
+        "id": "refugees_with_ptsd",
+        "name": "Refugees with PTSD",
+        "description": "Refugees suffering from post-traumatic stress disorder due to their experiences."
+      },
+      {
+        "id": "sexual_violence_survivors",
+        "name": "Sexual Violence Survivors",
+        "description": "Survivors of sexual violence seeking asylum and support."
+      },
+      {
+        "id": "disabled_asylum_seekers",
+        "name": "Disabled Asylum Seekers",
+        "description": "Asylum seekers with disabilities who require specialized assistance."
+      },
+      {
+        "id": "refugees_with_chronic_illnesses",
+        "name": "Refugees with Chronic Illnesses",
+        "description": "Refugees managing chronic health conditions requiring ongoing treatment."
+      },
+      {
+        "id": "women_asylum_seekers",
+        "name": "Women Asylum Seekers",
+        "description": "Female asylum seekers facing gender-specific challenges."
+      },
+      {
+        "id": "victims_of_domestic_violence",
+        "name": "Victims of Domestic Violence",
+        "description": "Individuals fleeing domestic abuse seeking protection and asylum."
+      },
+      {
+        "id": "child_refugees",
+        "name": "Child Refugees",
+        "description": "Children who have been granted refugee status."
+      },
+      {
+        "id": "victims_of_fgm",
+        "name": "Victims of Female Genital Mutilation (FGM)",
+        "description": "Survivors of FGM seeking asylum to escape further harm."
+      },
+      {
+        "id": "refugees_from_failed_states",
+        "name": "Refugees from Failed States",
+        "description": "Individuals fleeing countries where the government has collapsed, leading to instability."
+      },
+      {
+        "id": "persons_with_precarious_status",
+        "name": "Persons with Precarious Status",
+        "description": "Individuals with uncertain legal status, often at risk of deportation."
+      },
+      {
+        "id": "elderly_asylum_seekers",
+        "name": "Elderly Asylum Seekers",
+        "description": "Older individuals seeking asylum who require age-related support."
+      },
+      {
+        "id": "refugees_fleeing_genocide",
+        "name": "Refugees Fleeing Genocide",
+        "description": "Individuals escaping genocide in their home country."
+      },
+      {
+        "id": "victims_of_violence",
+        "name": "Victims of Violence",
+        "description": "Individuals seeking asylum after experiencing violence."
+      },
+      {
+        "id": "refugees_with_special_needs",
+        "name": "Refugees with Special Needs",
+        "description": "Individuals requiring special care due to physical or mental conditions."
+      },
+      {
+        "id": "unaccompanied_girls",
+        "name": "Unaccompanied Girls",
+        "description": "Female minors arriving without a guardian, often facing additional risks."
+      },
+      {
+        "id": "victims_of_slavery",
+        "name": "Victims of Slavery",
+        "description": "Individuals escaping modern slavery, seeking asylum and protection."
+      },
+      {
+        "id": "victims_of_human_rights_abuses",
+        "name": "Victims of Human Rights Abuses",
+        "description": "Individuals fleeing severe human rights violations in their home country."
+      },
+      {
+        "id": "migrants_in_transit",
+        "name": "Migrants in Transit",
+        "description": "Individuals on their way to a final destination, often stuck in limbo."
+      },
+      {
+        "id": "refugees_with_mental_disabilities",
+        "name": "Refugees with Mental Disabilities",
+        "description": "Refugees with cognitive impairments requiring mental health support."
+      },
+      {
+        "id": "unaccompanied_boys",
+        "name": "Unaccompanied Boys",
+        "description": "Male minors arriving without a guardian, facing vulnerabilities."
+      },
+      {
+        "id": "ethnic_refugees",
+        "name": "Ethnic Refugees",
+        "description": "Members of ethnic groups seeking refuge due to persecution."
+      },
+      {
+        "id": "cultural_minority_refugees",
+        "name": "Cultural Minority Refugees",
+        "description": "Refugees fleeing persecution based on cultural practices or identity."
+      },
+      {
+        "id": "victims_of_hate_crimes",
+        "name": "Victims of Hate Crimes",
+        "description": "Individuals fleeing targeted violence based on identity."
+      },
+      {
+        "id": "refugees_from_conflict_zones",
+        "name": "Refugees from Conflict Zones",
+        "description": "Individuals fleeing ongoing armed conflict in their home regions."
+      },
+      {
+        "id": "victims_of_war_crimes",
+        "name": "Victims of War Crimes",
+        "description": "Individuals fleeing war zones where international laws have been violated."
+      },
+      {
+        "id": "refugees_with_hiv",
+        "name": "Refugees with HIV",
+        "description": "Refugees living with HIV, requiring access to healthcare and support."
+      },
+      {
+        "id": "asylum_seekers_with_special_needs",
+        "name": "Asylum Seekers with Special Needs",
+        "description": "Asylum seekers with disabilities or health conditions requiring special care."
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": {
+    "Service": [
+      {
+        "id": "family_support_services",
+        "name": "Family Support Services",
+        "description": "Services that provide assistance to families, including counseling, financial aid, and social integration support."
+      },
+      {
+        "id": "medical_assistance",
+        "name": "Medical Assistance",
+        "description": "Services that provide medical support, including consultations, treatments, and access to healthcare facilities."
+      },
+      {
+        "id": "financial_aid_for_medical_expenses",
+        "name": "Financial Aid for Medical Expenses",
+        "description": "Financial assistance provided to cover medical expenses, including treatments, medications, and hospital stays."
+      },
+      {
+        "id": "student_support_services",
+        "name": "Student Support Services",
+        "description": "Support services for students, including counseling, academic guidance, and access to resources."
+      },
+      {
+        "id": "scholarship_programs",
+        "name": "Scholarship Programs",
+        "description": "Programs that provide financial assistance to students in the form of scholarships or grants."
+      },
+      {
+        "id": "student_housing",
+        "name": "Student Housing",
+        "description": "Housing services specifically designed for students, including dormitories and other accommodation options."
+      },
+      {
+        "id": "public_health_monitoring",
+        "name": "Public Health Monitoring",
+        "description": "Services that monitor public health issues, including disease outbreaks and health trends, to ensure community well-being."
+      },
+      {
+        "id": "employment_rights_advocacy",
+        "name": "Employment Rights Advocacy",
+        "description": "Services that advocate for workers' rights, ensuring fair treatment and protection under labor laws."
+      },
+      {
+        "id": "prisoner_support_services",
+        "name": "Prisoner Support Services",
+        "description": "Services that provide support to prisoners, including legal aid, counseling, and reintegration programs."
+      },
+      {
+        "id": "rehabilitation_programs",
+        "name": "Rehabilitation Programs",
+        "description": "Programs aimed at rehabilitating individuals, including prisoners, through education, training, and therapy."
+      },
+      {
+        "id": "legal_advocacy_for_prisoners",
+        "name": "Legal Advocacy for Prisoners",
+        "description": "Legal services that advocate for the rights of prisoners, ensuring fair treatment and access to justice."
+      },
+      {
+        "id": "child_protection_services",
+        "name": "Child Protection Services",
+        "description": "Services designed to protect children from abuse, neglect, and exploitation, ensuring their safety and well-being."
+      },
+      {
+        "id": "legal_advocacy_for_children",
+        "name": "Legal Advocacy for Children",
+        "description": "Legal services that advocate for the rights of children, ensuring their protection and access to justice."
+      }
+    ]
+  }
+}

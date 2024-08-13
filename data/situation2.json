@@ -1,0 +1,282 @@
+{
+  "nodes": {
+    "Situation": [
+      {
+        "id": "asylum_request_denied",
+        "name": "Asylum Request Denied",
+        "description": "A situation where a refugee's application for asylum is rejected by the authorities.",
+        "country": "FR"
+      },
+      {
+        "id": "fast_track_procedure",
+        "name": "Fast-Track Asylum Procedure",
+        "description": "A situation where an asylum seeker's case is processed under an accelerated procedure due to inconsistencies or fraud concerns.",
+        "country": "FR"
+      },
+      {
+        "id": "detention_center",
+        "name": "Detained in a Retention Center",
+        "description": "Being held in a detention center while awaiting a decision on asylum or deportation.",
+        "country": "FR"
+      },
+      {
+        "id": "border_refusal",
+        "name": "Refused Entry at the Border",
+        "description": "Denial of entry into the country, leading to a situation of legal and material precarity.",
+        "country": "FR"
+      },
+      {
+        "id": "living_in_camps",
+        "name": "Living in Refugee Camps",
+        "description": "Surviving in makeshift camps with inadequate living conditions while awaiting asylum decisions.",
+        "country": "FR"
+      },
+      {
+        "id": "prolonged_asylum_process",
+        "name": "Prolonged Asylum Process",
+        "description": "Facing long delays in the processing of asylum applications, leading to uncertainty and hardship.",
+        "country": "FR"
+      },
+      {
+        "id": "unaccompanied_minor",
+        "name": "Unaccompanied Minor",
+        "description": "A child under 18 who is without a legal guardian, requiring special protection and care.",
+        "country": "FR"
+      },
+      {
+        "id": "statelessness",
+        "name": "Statelessness",
+        "description": "Lacking nationality and facing difficulties in gaining legal recognition and rights.",
+        "country": "FR"
+      },
+      {
+        "id": "gender_based_violence",
+        "name": "Gender-Based Violence",
+        "description": "Experiencing violence or persecution based on gender, requiring specialized support.",
+        "country": "FR"
+      },
+      {
+        "id": "trafficking_victim",
+        "name": "Victim of Human Trafficking",
+        "description": "Being exploited through human trafficking, often requiring legal and psychological support.",
+        "country": "FR"
+      },
+      {
+        "id": "forced_return",
+        "name": "Forced Return to Home Country",
+        "description": "Facing deportation or expulsion back to a country where one fears persecution.",
+        "country": "FR"
+      },
+      {
+        "id": "awaiting_dublin_transfer",
+        "name": "Awaiting Dublin Regulation Transfer",
+        "description": "Uncertain waiting period while a transfer to another EU country is being processed.",
+        "country": "FR"
+      },
+      {
+        "id": "inadequate_housing",
+        "name": "Inadequate Housing",
+        "description": "Living in poor or overcrowded housing conditions while seeking asylum.",
+        "country": "FR"
+      },
+      {
+        "id": "financial_insecurity",
+        "name": "Financial Insecurity",
+        "description": "Facing economic hardship and lack of income while navigating the asylum process.",
+        "country": "FR"
+      },
+      {
+        "id": "limited_access_to_healthcare",
+        "name": "Limited Access to Healthcare",
+        "description": "Struggling to obtain necessary medical care due to legal or financial barriers.",
+        "country": "FR"
+      },
+      {
+        "id": "exploitation_in_informal_economy",
+        "name": "Exploitation in the Informal Economy",
+        "description": "Working in unregulated sectors with no legal protections or rights.",
+        "country": "FR"
+      },
+      {
+        "id": "lack_of_legal_support",
+        "name": "Lack of Legal Support",
+        "description": "Insufficient access to legal assistance in navigating asylum and immigration processes.",
+        "country": "FR"
+      },
+      {
+        "id": "social_isolation",
+        "name": "Social Isolation",
+        "description": "Experiencing loneliness and lack of social integration in a new country.",
+        "country": "FR"
+      },
+      {
+        "id": "mental_health_issues",
+        "name": "Mental Health Issues",
+        "description": "Struggling with psychological distress due to trauma, uncertainty, or poor living conditions.",
+        "country": "FR"
+      },
+      {
+        "id": "bureaucratic_obstacles",
+        "name": "Bureaucratic Obstacles",
+        "description": "Facing complex and confusing administrative procedures in seeking asylum or benefits.",
+        "country": "FR"
+      },
+      {
+        "id": "discrimination",
+        "name": "Discrimination",
+        "description": "Facing prejudice and exclusion based on race, nationality, or refugee status.",
+        "country": "FR"
+      },
+      {
+        "id": "family_separation",
+        "name": "Family Separation",
+        "description": "Being separated from family members due to immigration policies or asylum processes.",
+        "country": "FR"
+      },
+      {
+        "id": "lack_of_education_access",
+        "name": "Lack of Access to Education",
+        "description": "Facing barriers to education due to legal status or economic hardship.",
+        "country": "FR"
+      },
+      {
+        "id": "forced_marriage",
+        "name": "Forced Marriage",
+        "description": "Being coerced into marriage, often as a means of control or exploitation.",
+        "country": "FR"
+      },
+      {
+        "id": "awaiting_residency_decision",
+        "name": "Awaiting Residency Decision",
+        "description": "Experiencing prolonged uncertainty while awaiting a decision on residency status.",
+        "country": "FR"
+      },
+      {
+        "id": "denied_family_reunification",
+        "name": "Denied Family Reunification",
+        "description": "Facing rejection of applications to bring family members to join in the host country.",
+        "country": "FR"
+      },
+      {
+        "id": "inability_to_work",
+        "name": "Inability to Legally Work",
+        "description": "Being legally barred from employment due to asylum or immigration status.",
+        "country": "FR"
+      },
+      {
+        "id": "displacement_due_to_conflict",
+        "name": "Displacement Due to Conflict",
+        "description": "Forced to flee home country due to war or armed conflict, leading to refugee status.",
+        "country": "FR"
+      },
+      {
+        "id": "children_out_of_school",
+        "name": "Children Out of School",
+        "description": "Refugee or asylum-seeking children unable to attend school due to various barriers.",
+        "country": "FR"
+      },
+      {
+        "id": "domestic_violence",
+        "name": "Domestic Violence",
+        "description": "Experiencing violence or abuse within the home, requiring intervention and support.",
+        "country": "FR"
+      },
+      {
+        "id": "irregular_migration_status",
+        "name": "Irregular Migration Status",
+        "description": "Living without legal status, leading to vulnerability to exploitation and deportation.",
+        "country": "FR"
+      },
+      {
+        "id": "rejection_of_protection_status",
+        "name": "Rejection of Protection Status",
+        "description": "Denial of refugee or subsidiary protection status, leading to uncertainty and fear of return.",
+        "country": "FR"
+      },
+      {
+        "id": "denied_healthcare_access",
+        "name": "Denied Access to Healthcare",
+        "description": "Refusal of medical services due to legal status or lack of documentation.",
+        "country": "FR"
+      },
+      {
+        "id": "language_barrier",
+        "name": "Language Barrier",
+        "description": "Facing difficulties in communication and integration due to lack of language skills.",
+        "country": "FR"
+      },
+      {
+        "id": "violence_in_refugee_camps",
+        "name": "Violence in Refugee Camps",
+        "description": "Experiencing physical or sexual violence while living in refugee camps.",
+        "country": "FR"
+      },
+      {
+        "id": "deportation_risk",
+        "name": "Risk of Deportation",
+        "description": "Facing the threat of being forcibly returned to a country where one fears persecution.",
+        "country": "FR"
+      },
+      {
+        "id": "lack_of_shelter",
+        "name": "Lack of Shelter",
+        "description": "Homelessness or inadequate shelter while awaiting asylum or residency decisions.",
+        "country": "FR"
+      },
+      {
+        "id": "legal_vulnerability",
+        "name": "Legal Vulnerability",
+        "description": "Facing legal challenges and lack of protection due to immigration status.",
+        "country": "FR"
+      },
+      {
+        "id": "homelessness",
+        "name": "Homelessness",
+        "description": "Lacking stable housing, often living on the streets or in temporary shelters.",
+        "country": "FR"
+      },
+      {
+        "id": "exposure_to_exploitation",
+        "name": "Exposure to Exploitation",
+        "description": "Being vulnerable to exploitation in labor, housing, or other areas due to legal status.",
+        "country": "FR"
+      },
+      {
+        "id": "denied_access_to_social_services",
+        "name": "Denied Access to Social Services",
+        "description": "Ineligibility for or exclusion from social services and benefits due to legal status.",
+        "country": "FR"
+      },
+      {
+        "id": "racial_discrimination",
+        "name": "Racial Discrimination",
+        "description": "Experiencing prejudice or exclusion based on race or ethnicity.",
+        "country": "FR"
+      },
+      {
+        "id": "fear_of_persecution",
+        "name": "Fear of Persecution",
+        "description": "Living in fear of being targeted due to race, religion, nationality, or political opinion.",
+        "country": "FR"
+      },
+      {
+        "id": "precarious_legal_status",
+        "name": "Precarious Legal Status",
+        "description": "Uncertainty about legal status, leading to vulnerability in multiple aspects of life.",
+        "country": "FR"
+      },
+      {
+        "id": "lack_of_family_support",
+        "name": "Lack of Family Support",
+        "description": "Feeling isolated and without familial support in a new country.",
+        "country": "FR"
+      },
+      {
+        "id": "poverty",
+        "name": "Poverty",
+        "description": "Living in severe economic hardship, often without access to basic needs.",
+        "country": "FR"
+      }
+    ]
+  }
+}

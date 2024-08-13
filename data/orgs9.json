@@ -1,0 +1,368 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "ofii",
+        "name": "Office Français de l'Immigration et de l'Intégration (OFII)",
+        "description": "Provides services related to immigration, integration, and asylum seekers, including support for employment and housing.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_ofii_paris",
+              "name": "OFII Paris",
+              "street": "44 rue Bargue",
+              "postal_code": "75015",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": "contact@ofii.fr",
+              "phone": "+33 1 42 50 09 00"
+            },
+            {
+              "id": "contact_ofii_amiens",
+              "name": "OFII Amiens",
+              "street": "Résidence Le Belvédère, bât. D, 275 rue Jules Barni",
+              "postal_code": "80000",
+              "city": "Amiens",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 22 91 28 39"
+            },
+            {
+              "id": "contact_ofii_lille",
+              "name": "OFII Lille",
+              "street": "107 boulevard de la Liberté",
+              "postal_code": "59000",
+              "city": "Lille",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 20 99 98 60"
+            },
+            {
+              "id": "contact_ofii_creteil",
+              "name": "OFII Créteil",
+              "street": "13-15 rue Claude-Nicolas Ledoux",
+              "postal_code": "94000",
+              "city": "Créteil",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 1 48 92 16 40"
+            },
+            {
+              "id": "contact_ofii_melun",
+              "name": "OFII Melun",
+              "street": "2 bis avenue Jean Jaurès",
+              "postal_code": "77000",
+              "city": "Melun",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 1 78 49 20 00"
+            },
+            {
+              "id": "contact_ofii_bobigny",
+              "name": "OFII Bobigny",
+              "street": "13 rue Marguerite Yourcenar",
+              "postal_code": "93000",
+              "city": "Bobigny",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 1 49 72 54 00"
+            },
+            {
+              "id": "contact_ofii_montrouge",
+              "name": "OFII Montrouge",
+              "street": "55 rue Etienne Dolet",
+              "postal_code": "92240",
+              "city": "Malakoff",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 1 41 17 73 00"
+            },
+            {
+              "id": "contact_ofii_cergy",
+              "name": "OFII Cergy",
+              "street": "Immeuble Ordinal, Rue des Chauffours",
+              "postal_code": "95002",
+              "city": "Cergy-Pontoise Cedex",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 1 34 20 20 30"
+            },
+            {
+              "id": "contact_ofii_besancon",
+              "name": "OFII Besançon",
+              "street": "3 avenue de la Gare d’Eau",
+              "postal_code": "25000",
+              "city": "Besançon",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 81 65 22 00"
+            },
+            {
+              "id": "contact_ofii_dijon",
+              "name": "OFII Dijon",
+              "street": "6 rue Chancelier de l’Hospital",
+              "postal_code": "21000",
+              "city": "Dijon",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 80 68 30 10"
+            },
+            {
+              "id": "contact_ofii_grenoble",
+              "name": "OFII Grenoble",
+              "street": "70-72 rue des Alliés",
+              "postal_code": "38100",
+              "city": "Grenoble",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 76 40 95 45"
+            },
+            {
+              "id": "contact_ofii_lyon",
+              "name": "OFII Lyon",
+              "street": "7 rue Quivogne",
+              "postal_code": "69286",
+              "city": "Lyon Cedex 02",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 72 77 15 40"
+            },
+            {
+              "id": "contact_ofii_clermont_ferrand",
+              "name": "OFII Clermont-Ferrand",
+              "street": "1 rue d’Assas",
+              "postal_code": "63000",
+              "city": "Clermont-Ferrand",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 73 17 02 69"
+            },
+            {
+              "id": "contact_ofii_metz",
+              "name": "OFII Metz",
+              "street": "2 rue Lafayette",
+              "postal_code": "57000",
+              "city": "Metz",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 87 66 64 98"
+            },
+            {
+              "id": "contact_ofii_reims",
+              "name": "OFII Reims",
+              "street": "2 rue du Grand Credo",
+              "postal_code": "51100",
+              "city": "Reims",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 3 26 36 97 29"
+            },
+            {
+              "id": "contact_ofii_strasbourg",
+              "name": "OFII Strasbourg",
+              "street": "4 rue Gustave Doré",
+              "postal_code": "67069",
+              "city": "Strasbourg Cedex",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": "strasbourg@ofii.fr",
+              "phone": "+33 3 88 76 40 40"
+            },
+            {
+              "id": "contact_ofii_bordeaux",
+              "name": "OFII Bordeaux",
+              "street": "55 rue Saint-Sernin",
+              "postal_code": "33000",
+              "city": "Bordeaux",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 5 57 14 23 00"
+            },
+            {
+              "id": "contact_ofii_limoges",
+              "name": "OFII Limoges",
+              "street": "19 rue Cruveilhier",
+              "postal_code": "87000",
+              "city": "Limoges",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 5 55 11 01 10"
+            },
+            {
+              "id": "contact_ofii_poitiers",
+              "name": "OFII Poitiers",
+              "street": "86 avenue du 8 mai 1945",
+              "postal_code": "86000",
+              "city": "Poitiers",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 5 49 62 65 70"
+            },
+            {
+              "id": "contact_ofii_montpellier",
+              "name": "OFII Montpellier",
+              "street": "130 rue de la Jasse de Maurin",
+              "postal_code": "34000",
+              "city": "Montpellier",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 99 77 25 50"
+            },
+            {
+              "id": "contact_ofii_toulouse",
+              "name": "OFII Toulouse",
+              "street": "7 rue Arthur Rimbaud",
+              "postal_code": "31203",
+              "city": "Toulouse Cedex 2",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": "integration.toulouse@ofii.fr",
+              "phone": "+33 5 34 41 72 20"
+            },
+            {
+              "id": "contact_ofii_caen",
+              "name": "OFII Caen",
+              "street": "Rue Daniel Huet",
+              "postal_code": "14038",
+              "city": "Caen Cedex 9",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 31 86 57 98"
+            },
+            {
+              "id": "contact_ofii_rouen",
+              "name": "OFII Rouen",
+              "street": "15 place de la Verrerie",
+              "postal_code": "76100",
+              "city": "Rouen",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": "rouen@ofii.fr",
+              "phone": "+33 2 32 18 09 94"
+            },
+            {
+              "id": "contact_ofii_rennes",
+              "name": "OFII Rennes",
+              "street": "8 rue Jean-Julien Lemordant",
+              "postal_code": "35000",
+              "city": "Rennes",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 99 22 98 60"
+            },
+            {
+              "id": "contact_ofii_nantes",
+              "name": "OFII Nantes",
+              "street": "93 bis rue de la Commune de 1871",
+              "postal_code": "44400",
+              "city": "Rezé",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 51 72 79 39"
+            },
+            {
+              "id": "contact_ofii_nice",
+              "name": "OFII Nice",
+              "street": "147 boulevard du Mercantour",
+              "postal_code": "06200",
+              "city": "Nice",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 89 15 81 70"
+            },
+            {
+              "id": "contact_ofii_marseille",
+              "name": "OFII Marseille",
+              "street": "61 boulevard Rabatau",
+              "postal_code": "13295",
+              "city": "Marseille Cedex 08",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 4 91 32 53 60"
+            },
+            {
+              "id": "contact_ofii_orleans",
+              "name": "OFII Orléans",
+              "street": "4 rue de Patay",
+              "postal_code": "45000",
+              "city": "Orléans",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 38 52 00 34"
+            },
+            {
+              "id": "contact_ofii_cayenne",
+              "name": "OFII Cayenne",
+              "street": "17-19 rue Lallouette",
+              "postal_code": "97325",
+              "city": "Cayenne",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 5 94 37 87 00"
+            },
+            {
+              "id": "contact_ofii_reunion",
+              "name": "OFII Réunion",
+              "street": "Place du Barachois",
+              "postal_code": "97405",
+              "city": "Saint-Denis Cedex",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 62 40 75 69"
+            },
+            {
+              "id": "contact_ofii_mayotte",
+              "name": "OFII Mayotte",
+              "street": "N15 Espace Coralium RN1, CS 80058 Kaweni",
+              "postal_code": "97600",
+              "city": "Mamoudzou",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 2 69 64 01 79"
+            },
+            {
+              "id": "contact_ofii_guadeloupe",
+              "name": "OFII Guadeloupe",
+              "street": "Section 246 – Grand Camp",
+              "postal_code": "97139",
+              "city": "Les Abymes",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": null,
+              "phone": "+33 5 90 90 01 83"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

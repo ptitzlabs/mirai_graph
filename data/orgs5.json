@@ -1,0 +1,186 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "ofpra",
+        "name": "Office Français de Protection des Réfugiés et Apatrides (OFPRA)",
+        "description": "French agency responsible for asylum applications and the protection of refugees and stateless persons.",
+        "country": "FR"
+      },
+      {
+        "id": "ofii",
+        "name": "Office Français de l'Immigration et de l'Intégration (OFII)",
+        "description": "Handles immigration, integration, and asylum services in France.",
+        "country": "FR"
+      },
+      {
+        "id": "gisti",
+        "name": "Groupe d'information et de soutien des immigré·e·s (GISTI)",
+        "description": "Provides legal support and information to immigrants and refugees in France.",
+        "country": "FR"
+      },
+      {
+        "id": "cimade",
+        "name": "La Cimade",
+        "description": "Offers support and advocacy for refugees, migrants, and asylum seekers in France.",
+        "country": "FR"
+      },
+      {
+        "id": "france_terre_dasile",
+        "name": "France Terre d'Asile",
+        "description": "Advocates for and supports refugees and asylum seekers across France.",
+        "country": "FR"
+      },
+      {
+        "id": "emmaus_france",
+        "name": "Emmaüs France",
+        "description": "Provides housing and social support to marginalized groups, including refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "unhcr",
+        "name": "United Nations High Commissioner for Refugees (UNHCR)",
+        "description": "UN agency dedicated to aiding and protecting refugees worldwide.",
+        "country": "INT"
+      },
+      {
+        "id": "red_cross_france",
+        "name": "Croix-Rouge Française (French Red Cross)",
+        "description": "Provides emergency assistance, disaster relief, and education in communities, including support for refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "secours_catholique",
+        "name": "Secours Catholique",
+        "description": "Catholic organization providing social services, including support for refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "amnesty_international_fr",
+        "name": "Amnesty International France",
+        "description": "Part of the global human rights organization, advocating for the rights of refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "medecins_du_monde",
+        "name": "Médecins du Monde",
+        "description": "International humanitarian organization providing medical care to vulnerable populations, including refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "icrc",
+        "name": "International Committee of the Red Cross (ICRC)",
+        "description": "An impartial, neutral, and independent organization providing humanitarian protection and assistance.",
+        "country": "INT"
+      },
+      {
+        "id": "ase",
+        "name": "Aide Sociale à l'Enfance (ASE)",
+        "description": "Child protection services providing support for unaccompanied minors and at-risk children.",
+        "country": "FR"
+      },
+      {
+        "id": "caf",
+        "name": "Caisse d'Allocations Familiales (CAF)",
+        "description": "Provides family allowances and social services to families and vulnerable groups in France.",
+        "country": "FR"
+      },
+      {
+        "id": "cnam",
+        "name": "Caisse Nationale d'Assurance Maladie (CNAM)",
+        "description": "Manages health insurance and social security services in France.",
+        "country": "FR"
+      },
+      {
+        "id": "cnous",
+        "name": "Centre National des Œuvres Universitaires et Scolaires (CNOUS)",
+        "description": "Coordinates student services across France, including housing, scholarships, and social support.",
+        "country": "FR"
+      },
+      {
+        "id": "crous",
+        "name": "Centre Régional des Œuvres Universitaires et Scolaires (CROUS)",
+        "description": "Provides support services to students, including housing and financial aid.",
+        "country": "FR"
+      },
+      {
+        "id": "mds",
+        "name": "Maison Départementale des Solidarités (MDS)",
+        "description": "Offers social services and support to families, children, and elderly.",
+        "country": "FR"
+      },
+      {
+        "id": "france_travail",
+        "name": "France Travail",
+        "description": "Formerly known as Pôle Emploi, this organization supports job seekers and provides employment services.",
+        "country": "FR"
+      },
+      {
+        "id": "cpam",
+        "name": "Caisse Primaire d'Assurance Maladie (CPAM)",
+        "description": "Provides health insurance and ensures access to healthcare services.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_of_interior",
+        "name": "Ministère de l'Intérieur",
+        "description": "Oversees public security, immigration, and civil protection in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_of_health",
+        "name": "Ministère des Solidarités et de la Santé",
+        "description": "Responsible for public health, social services, and healthcare systems in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_of_justice",
+        "name": "Ministère de la Justice",
+        "description": "Handles the judicial system, including immigration courts in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_of_social_affairs",
+        "name": "Ministère des Solidarités et de la Cohésion Sociale",
+        "description": "Manages social welfare programs and services for vulnerable populations.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_of_education",
+        "name": "Ministère de l'Éducation Nationale",
+        "description": "Responsible for national education policy and services, including support for refugee students.",
+        "country": "FR"
+      },
+      {
+        "id": "resf",
+        "name": "Réseau Éducation Sans Frontières (RESF)",
+        "description": "Advocates for the rights of undocumented children to access education in France.",
+        "country": "FR"
+      },
+      {
+        "id": "solidarite_laique",
+        "name": "Solidarité Laïque",
+        "description": "Supports access to education and social integration for vulnerable populations.",
+        "country": "FR"
+      },
+      {
+        "id": "rfc",
+        "name": "Réseau France Conflits (RFC)",
+        "description": "Network providing support and advocacy for refugees and conflict-affected populations.",
+        "country": "FR"
+      },
+      {
+        "id": "agefiph",
+        "name": "Association de Gestion du Fonds pour l'Insertion Professionnelle des Personnes Handicapées (AGEFIPH)",
+        "description": "Supports the employment of people with disabilities in France.",
+        "country": "FR"
+      },
+      {
+        "id": "mission_locale",
+        "name": "Mission Locale",
+        "description": "Provides employment support and social services to young people aged 16-25.",
+        "country": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "autremonde",
+        "name": "Autremonde",
+        "description": "An organization offering activities and support for refugees, particularly women and children, in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_autremonde",
+              "name": "Autremonde",
+              "street": "30 rue de la Mare",
+              "postal_code": "75020",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "cedre",
+        "name": "CEDRE",
+        "description": "Organization offering sociocultural activities such as 'Café Papote', solidarity football training, and art mediation workshops in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_cedre",
+              "name": "CEDRE",
+              "street": "23 bd. de la Commanderie",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_maison_bakhita",
+        "name": "La Maison Bakhita",
+        "description": "Organization in Paris providing job support, medical consultations, and various workshops.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_maison_bakhita",
+              "name": "La Maison Bakhita",
+              "street": "50 boulevard Jourdan",
+              "postal_code": "75014",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "emmaus_solidarite",
+        "name": "Emmaüs Solidarité",
+        "description": "Organization offering various services such as showers, medical and psychological support, and social assistance.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_emmaus_solidarite",
+              "name": "Emmaüs Solidarité",
+              "street": "Tour de Seine, 28 avenue George V",
+              "postal_code": "75008",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://emmaus-solidarite.org",
+              "email": null,
+              "phone": "+33 1 42 36 35 55"
+            }
+          ]
+        }
+      },
+      {
+        "id": "bus_des_femmes",
+        "name": "Bus des Femmes",
+        "description": "An organization offering support to sex workers, including social and administrative help, HIV testing, and CPAM consultations.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_bus_des_femmes",
+              "name": "Bus des Femmes",
+              "street": "58 rue des Amandiers",
+              "postal_code": "75020",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 43 14 98 98"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arc_essentiel",
+        "name": "Arc Essentiel",
+        "description": "Organization providing administrative support, residency permit help, social housing search, and more for LGBTQIA+ refugees in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_arc_essentiel",
+              "name": "Arc Essentiel",
+              "street": "12 rue Pierre Castagnou",
+              "postal_code": "75014",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://arcessentiel.fr",
+              "email": "contact@arcessentiel.fr",
+              "phone": "+33 6 71 92 95 16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "utopia_56",
+        "name": "Utopia 56",
+        "description": "Organization offering material support, guidance, and accommodation for families, single women, and unaccompanied minors in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_utopia_56",
+              "name": "Utopia 56",
+              "street": "1 rue Henri Ribière",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.utopia56.com",
+              "email": "paris@utopia56.org",
+              "phone": "+33 6 58 10 98 58"
+            }
+          ]
+        }
+      },
+      {
+        "id": "amnesty_international",
+        "name": "Amnesty International",
+        "description": "Organization providing legal aid and support for asylum claims and stateless persons.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_amnesty_international",
+              "name": "Amnesty International",
+              "street": "72-76 boulevard de la Villette",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.amnesty.fr",
+              "email": null,
+              "phone": "+33 1 53 38 65 65"
+            }
+          ]
+        }
+      },
+      {
+        "id": "asso_asile",
+        "name": "Association Asile",
+        "description": "Organization providing help with OFPRA interviews, CNDA appeals, and social security for asylum seekers.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_asso_asile",
+              "name": "Association Asile",
+              "street": "Bibliothèque Vaclav Havel, 26 Esplanade Nathalie Sarraute",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": "contact.asile.asso@gmail.com",
+              "phone": "+33 6 50 54 79 45"
+            }
+          ]
+        }
+      },
+      {
+        "id": "terre_d_asile",
+        "name": "Terre d'Asile",
+        "description": "Organization providing emergency accommodation services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_terre_d_asile",
+              "name": "Terre d'Asile",
+              "street": "24 Quai d'Austerlitz",
+              "postal_code": "75013",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.france-terre-asile.org",
+              "email": null,
+              "phone": "+33 1 45 88 18 60"
+            }
+          ]
+        }
+      },
+      {
+        "id": "restos_du_coeur",
+        "name": "Restos du Coeur",
+        "description": "Organization providing meals to those in need in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_restos_du_coeur",
+              "name": "Restos du Coeur",
+              "street": "42 rue de Clichy",
+              "postal_code": "75009",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.restosducoeur.org",
+              "email": null,
+              "phone": "+33 1 53 32 23 27"
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_gamelle_de_jaures",
+        "name": "La Gamelle de Jaurès",
+        "description": "Organization offering dinner services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_gamelle_de_jaures",
+              "name": "La Gamelle de Jaurès",
+              "street": "10-12 Avenue de Flandre",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "l_un_est_l_autre",
+        "name": "L'Un Est L'Autre",
+        "description": "Organization offering lunch and dinner services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_l_un_est_l_autre",
+              "name": "L'Un Est L'Autre",
+              "street": "Rue de la Lune",
+              "postal_code": "75002",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_chorba",
+        "name": "La Chorba",
+        "description": "Organization offering meals to those in need in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_chorba",
+              "name": "La Chorba",
+              "street": "Porte de la Villette, Boulevard Macdonald",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "une_chorba_pour_tous",
+        "name": "Une Chorba Pour Tous",
+        "description": "Organization offering meals in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_une_chorba_pour_tous",
+              "name": "Une Chorba Pour Tous",
+              "street": "14 rue Léon Giraud",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "solidarite_migrants_wilson",
+        "name": "Solidarité Migrants Wilson",
+        "description": "Organization providing food services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_solidarite_migrants_wilson",
+              "name": "Solidarité Migrants Wilson",
+              "street": "Porte de la Chapelle",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "p_tit_dej_solidaires",
+        "name": "P'tit Déj' Solidaires",
+        "description": "Organization offering breakfast services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_p_tit_dej_solidaires",
+              "name": "P'tit Déj' Solidaires",
+              "street": "Quai de la Loire",
+              "postal_code": "75019",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_fabrique_du_sourire",
+        "name": "La Fabrique du Sourire",
+        "description": "Organization providing dinner services for those in need in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_fabrique_du_sourire",
+              "name": "La Fabrique du Sourire",
+              "street": "44 Rue Saint-Blaise",
+              "postal_code": "75020",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "terre_des_hommes_fr",
+        "name": "Terre des Hommes France",
+        "description": "Organization focused on children's rights and protection, including support for refugee and migrant children.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_terre_des_hommes_fr",
+              "name": "Terre des Hommes France",
+              "street": "5 rue de l'Oratoire",
+              "postal_code": "75001",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.terredeshommes.org",
+              "email": null,
+              "phone": "+33 1 44 83 11 01"
+            }
+          ]
+        }
+      },
+      {
+        "id": "arc_essentiel",
+        "name": "Arc Essentiel",
+        "description": "Organization providing administrative support, residency permit help, social housing search, and more for LGBTQIA+ refugees in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_arc_essentiel",
+              "name": "Arc Essentiel",
+              "street": "Maison des réfugiés, 50 boulevard Jourdan",
+              "postal_code": "75014",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://arcessentiel.fr",
+              "email": "contact@arcessentiel.fr",
+              "phone": "+33 6 71 92 95 16"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

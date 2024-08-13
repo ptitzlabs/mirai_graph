@@ -1,0 +1,211 @@
+{
+  "nodes": {
+    "Service": [
+      {
+        "id": "practical_information",
+        "name": "Practical Information",
+        "description": "Information services providing guidance on essential procedures, local services, and navigating life in the host country."
+      },
+      {
+        "id": "showers",
+        "name": "Showers",
+        "description": "Access to shower facilities for individuals in need, particularly refugees and the homeless."
+      },
+      {
+        "id": "administrative_support",
+        "name": "Administrative Support",
+        "description": "Assistance with administrative procedures, including filling out forms and navigating bureaucratic processes."
+      },
+      {
+        "id": "residency_permit_help",
+        "name": "Residency Permit Help",
+        "description": "Support services assisting with the application and renewal of residency permits."
+      },
+      {
+        "id": "social_housing_search",
+        "name": "Social Housing Search",
+        "description": "Assistance in finding and applying for social housing options."
+      },
+      {
+        "id": "lgbtq_support",
+        "name": "LGBTQ Support",
+        "description": "Specialized support services for LGBTQ individuals, including legal assistance and social services."
+      },
+      {
+        "id": "sociocultural_activities",
+        "name": "Sociocultural Activities",
+        "description": "Activities that promote social interaction and cultural engagement, such as workshops, events, and outings."
+      },
+      {
+        "id": "women_support",
+        "name": "Women Support",
+        "description": "Support services specifically tailored to the needs of women, including legal aid, counseling, and health services."
+      },
+      {
+        "id": "child_support",
+        "name": "Child Support",
+        "description": "Services aimed at supporting children, including education, health, and social integration."
+      },
+      {
+        "id": "administrative_help",
+        "name": "Administrative Help",
+        "description": "General help with administrative tasks, including document preparation and communication with authorities."
+      },
+      {
+        "id": "family_links_restoration",
+        "name": "Family Links Restoration",
+        "description": "Services that help restore contact between family members separated by conflict, migration, or disaster."
+      },
+      {
+        "id": "vulnerable_family_support",
+        "name": "Vulnerable Family Support",
+        "description": "Support services for families in vulnerable situations, including those separated by borders."
+      },
+      {
+        "id": "domiciliation_services",
+        "name": "Domiciliation Services",
+        "description": "Address services for those without a permanent residence, often required for accessing social services."
+      },
+      {
+        "id": "bag_storage_services",
+        "name": "Bag Storage Services",
+        "description": "Services providing secure storage for personal belongings, particularly for homeless individuals."
+      },
+      {
+        "id": "housing_information",
+        "name": "Housing Information",
+        "description": "Provision of information about housing options, rights, and regulations."
+      },
+      {
+        "id": "housing_advice",
+        "name": "Housing Advice",
+        "description": "Advice and guidance on housing-related issues, including tenancy rights and application processes."
+      },
+      {
+        "id": "housing_application_help",
+        "name": "Housing Application Help",
+        "description": "Assistance with the process of applying for housing, including documentation and form completion."
+      },
+      {
+        "id": "french_lessons",
+        "name": "French Lessons",
+        "description": "Language classes aimed at helping non-French speakers learn the language for better integration."
+      },
+      {
+        "id": "dinner_services",
+        "name": "Dinner Services",
+        "description": "Provision of evening meals to individuals in need, often as part of a larger support program."
+      },
+      {
+        "id": "breakfast_services",
+        "name": "Breakfast Services",
+        "description": "Provision of morning meals, typically offered to homeless or vulnerable populations."
+      },
+      {
+        "id": "food_services",
+        "name": "Food Services",
+        "description": "General food provision services, including meal distribution and food aid."
+      },
+      {
+        "id": "lunch_services",
+        "name": "Lunch Services",
+        "description": "Provision of midday meals to individuals in need."
+      },
+      {
+        "id": "meal_services",
+        "name": "Meal Services",
+        "description": "Comprehensive services providing meals throughout the day to those in need."
+      },
+      {
+        "id": "emergency_accommodation",
+        "name": "Emergency Accommodation",
+        "description": "Temporary housing solutions provided in crisis situations to individuals or families."
+      },
+      {
+        "id": "cultural_outings",
+        "name": "Cultural Outings",
+        "description": "Organized trips to cultural events and locations, promoting social integration and cultural awareness."
+      },
+      {
+        "id": "football_training",
+        "name": "Football Training",
+        "description": "Training sessions and activities centered around playing football, often used as a tool for social integration."
+      },
+      {
+        "id": "sports_activities",
+        "name": "Sports Activities",
+        "description": "Physical activities, including team sports and individual exercise, provided as part of social programs."
+      },
+      {
+        "id": "football_sessions",
+        "name": "Football Sessions",
+        "description": "Scheduled football games and practices, often open to the community."
+      },
+      {
+        "id": "yoga_sessions",
+        "name": "Yoga Sessions",
+        "description": "Yoga classes offered to promote physical and mental well-being."
+      },
+      {
+        "id": "job_support",
+        "name": "Job Support",
+        "description": "Assistance with job searching, applications, and training to improve employability."
+      },
+      {
+        "id": "medical_consultations",
+        "name": "Medical Consultations",
+        "description": "Health check-ups and consultations provided by medical professionals."
+      },
+      {
+        "id": "workshops",
+        "name": "Workshops",
+        "description": "Educational or skill-building sessions offered to groups or individuals."
+      },
+      {
+        "id": "professional_support",
+        "name": "Professional Support",
+        "description": "Services offering career guidance, skill development, and job placement assistance."
+      },
+      {
+        "id": "job_coaching",
+        "name": "Job Coaching",
+        "description": "Personalized support and mentoring to help individuals achieve their career goals."
+      },
+      {
+        "id": "french_courses",
+        "name": "French Courses",
+        "description": "Structured classes aimed at teaching French language skills."
+      },
+      {
+        "id": "computer_skills_training",
+        "name": "Computer Skills Training",
+        "description": "Training programs designed to improve digital literacy and technical skills."
+      },
+      {
+        "id": "socioprofessional_support",
+        "name": "Socioprofessional Support",
+        "description": "Services that combine social and professional assistance, aimed at improving overall well-being and employment prospects."
+      },
+      {
+        "id": "immersion_stays",
+        "name": "Immersion Stays",
+        "description": "Programs that offer immersive experiences to help individuals integrate into a new culture or environment."
+      },
+      {
+        "id": "technology_training",
+        "name": "Technology Training",
+        "description": "Programs focused on teaching technical skills related to information technology and digital tools."
+      },
+      {
+        "id": "digital_profession_training",
+        "name": "Digital Profession Training",
+        "description": "Training programs designed to prepare individuals for careers in the digital and tech industries."
+      },
+      {
+        "id": "food_aid",
+        "name": "Food Aid",
+        "description": "Distribution of food supplies to individuals and families in need."
+      }
+    ]
+  }
+}

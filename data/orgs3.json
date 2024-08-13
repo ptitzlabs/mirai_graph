@@ -1,0 +1,282 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "gisti",
+        "name": "Groupe d'information et de soutien des immigré⋅e⋅s (GISTI)",
+        "description": "A French organization providing legal advice and support to immigrants and refugees, and advocating for their rights.",
+        "country": "FR"
+      },
+      {
+        "id": "cimade",
+        "name": "La Cimade",
+        "description": "A French NGO providing support and advocacy for migrants, refugees, and asylum seekers, focusing on legal assistance and human rights.",
+        "country": "FR"
+      },
+      {
+        "id": "france_terre_dasile",
+        "name": "France Terre d'Asile",
+        "description": "An organization in France supporting refugees and asylum seekers through legal aid, housing, and integration services.",
+        "country": "FR"
+      },
+      {
+        "id": "emmaus_france",
+        "name": "Emmaus France",
+        "description": "A French NGO working with vulnerable populations, including refugees, to provide housing, employment, and social support.",
+        "country": "FR"
+      },
+      {
+        "id": "forum_refugies_cosi",
+        "name": "Forum Réfugiés-Cosi",
+        "description": "A French organization offering legal assistance, housing, and social support to refugees and asylum seekers.",
+        "country": "FR"
+      },
+      {
+        "id": "exil_solidarite",
+        "name": "Exil Solidarité",
+        "description": "A French association dedicated to supporting asylum seekers and refugees in navigating the asylum process.",
+        "country": "FR"
+      },
+      {
+        "id": "sos_racisme",
+        "name": "SOS Racisme",
+        "description": "A French NGO focused on combating racism and discrimination, including supporting migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "secours_catholique",
+        "name": "Secours Catholique",
+        "description": "A French branch of Caritas Internationalis providing humanitarian aid and social services to refugees and vulnerable populations.",
+        "country": "FR"
+      },
+      {
+        "id": "secours_populaire_francais",
+        "name": "Secours Populaire Français",
+        "description": "A French NGO providing emergency aid, social services, and support to refugees and low-income individuals.",
+        "country": "FR"
+      },
+      {
+        "id": "adoma_fr",
+        "name": "Adoma",
+        "description": "A public company in France offering housing solutions for disadvantaged populations, including asylum seekers and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "coe_accompagnement_fr",
+        "name": "COE Accompagnement",
+        "description": "A French NGO supporting refugees, migrants, and other vulnerable populations through social services and integration programs.",
+        "country": "FR"
+      },
+      {
+        "id": "afd_international",
+        "name": "Agence Française de Développement (AFD)",
+        "description": "A public financial institution in France that funds development projects, including those supporting refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "migrants_solidarity_network",
+        "name": "Réseau de solidarité migrants",
+        "description": "A French network of organizations providing support and advocacy for migrants and refugees across the country.",
+        "country": "FR"
+      },
+      {
+        "id": "ufolep_fr",
+        "name": "Union Française des Œuvres Laïques d'Éducation Physique (UFOLEP)",
+        "description": "A French NGO promoting social inclusion through sports and education, including programs for refugee youth.",
+        "country": "FR"
+      },
+      {
+        "id": "france_solidarity_migrants",
+        "name": "Solidarité Migrants France",
+        "description": "A coalition of French NGOs working together to provide assistance and advocate for the rights of migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "medecins_du_monde_fr",
+        "name": "Médecins du Monde",
+        "description": "A French humanitarian organization providing medical care to vulnerable populations, including refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "aftam_fr",
+        "name": "Association pour la Formation et l'Accompagnement des Migrants (AFTAM)",
+        "description": "A French NGO offering education, vocational training, and social services to migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "bretagne_solidarity_network",
+        "name": "Réseau Bretagne Solidarité",
+        "description": "A regional network in Brittany, France, providing support and advocacy for refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "migrants_and_asylum_seekers",
+        "name": "Migrants et Réfugiés",
+        "description": "A French NGO focusing on the needs of migrants and asylum seekers, offering legal advice and social support.",
+        "country": "FR"
+      },
+      {
+        "id": "pimms_fr",
+        "name": "PIMMS Médiation",
+        "description": "A French NGO providing mediation services to help integrate immigrants and improve community relations.",
+        "country": "FR"
+      },
+      {
+        "id": "france_terre_davenir",
+        "name": "France Terre d'Avenir",
+        "description": "An NGO focused on supporting immigrant integration in France through educational and professional development programs.",
+        "country": "FR"
+      },
+      {
+        "id": "singa_fr",
+        "name": "SINGA France",
+        "description": "A community organization in France that fosters connections between refugees and locals, promoting integration and social entrepreneurship.",
+        "country": "FR"
+      },
+      {
+        "id": "casa_fr",
+        "name": "Collectif des Associations de Solidarité avec les Immigrés (CASA)",
+        "description": "A collective of French associations working together to support immigrants and refugees in France.",
+        "country": "FR"
+      },
+      {
+        "id": "passerelle_fr",
+        "name": "La Passerelle",
+        "description": "A French NGO offering integration support to refugees and asylum seekers, including language classes and cultural orientation.",
+        "country": "FR"
+      },
+      {
+        "id": "solidarite_migrants_fr",
+        "name": "Solidarité Migrants Wilson",
+        "description": "An organization in France providing food, shelter, and support to refugees and migrants in the Paris area.",
+        "country": "FR"
+      },
+      {
+        "id": "secours_islamique_france",
+        "name": "Secours Islamique France",
+        "description": "A French humanitarian organization providing assistance to vulnerable populations, including refugees, based on Islamic principles of solidarity.",
+        "country": "FR"
+      },
+      {
+        "id": "refugies_bienvenue",
+        "name": "Refugiés Bienvenue",
+        "description": "A French organization helping refugees find temporary housing with local hosts and providing integration support.",
+        "country": "FR"
+      },
+      {
+        "id": "recherche_et_solidarite_fr",
+        "name": "Recherche et Solidarité",
+        "description": "A French organization focusing on research and solidarity efforts to support social and humanitarian causes, including migrant assistance.",
+        "country": "FR"
+      },
+      {
+        "id": "amicale_du_nid",
+        "name": "Amicale du Nid",
+        "description": "A French organization supporting women and children in vulnerable situations, including migrant women facing exploitation.",
+        "country": "FR"
+      },
+      {
+        "id": "croix_rouge_francaise",
+        "name": "Croix-Rouge française",
+        "description": "The French Red Cross, providing emergency aid, social services, and integration support to refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "restos_du_coeur_fr",
+        "name": "Les Restos du Cœur",
+        "description": "A French charity providing food, housing, and social services to the poor and homeless, including migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "avocats_sans_frontieres_fr",
+        "name": "Avocats Sans Frontières France",
+        "description": "A French organization of lawyers providing legal assistance to vulnerable populations, including refugees and asylum seekers.",
+        "country": "FR"
+      },
+      {
+        "id": "habitat_et_humanisme_fr",
+        "name": "Habitat et Humanisme",
+        "description": "A French NGO providing housing and social support to disadvantaged populations, including migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "atd_quart_monde_fr",
+        "name": "ATD Quart Monde",
+        "description": "A French anti-poverty organization advocating for the rights of the poor, including migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "action_contre_la_faim_fr",
+        "name": "Action contre la Faim",
+        "description": "A French NGO fighting hunger and providing food security to vulnerable populations, including refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "terre_des_hommes_fr",
+        "name": "Terre des Hommes France",
+        "description": "A French organization focused on children's rights and protection, including support for refugee and migrant children.",
+        "country": "FR"
+      },
+      {
+        "id": "iceland_france",
+        "name": "ICeland France",
+        "description": "A French association working to support migrants and asylum seekers through community-building and integration initiatives.",
+        "country": "FR"
+      },
+      {
+        "id": "ufolep_fr",
+        "name": "UFOLEP",
+        "description": "Union Française des Œuvres Laïques d'Éducation Physique (UFOLEP) promotes inclusion and social cohesion through physical education, including programs for refugee youth.",
+        "country": "FR"
+      },
+      {
+        "id": "reseau_solidarite_fr",
+        "name": "Réseau Solidarité",
+        "description": "A French network of NGOs providing emergency aid, shelter, and advocacy for the rights of refugees and migrants.",
+        "country": "FR"
+      },
+      {
+        "id": "atelier_des_journalistes_fr",
+        "name": "Atelier des Journalistes",
+        "description": "A French organization advocating for freedom of the press and providing support to migrant and refugee journalists.",
+        "country": "FR"
+      },
+      {
+        "id": "migreurop_fr",
+        "name": "Migreurop",
+        "description": "A French network advocating for the rights of migrants and refugees in Europe, with a focus on borders and detention centers.",
+        "country": "FR"
+      },
+      {
+        "id": "migrants_et_citoyens_fr",
+        "name": "Migrants et Citoyens",
+        "description": "A French organization working to build bridges between migrants and the local population, promoting understanding and integration.",
+        "country": "FR"
+      },
+      {
+        "id": "urgence_immigration_fr",
+        "name": "Urgence Immigration",
+        "description": "A French NGO providing emergency assistance and legal support to undocumented immigrants and asylum seekers.",
+        "country": "FR"
+      },
+      {
+        "id": "droit_au_logement_fr",
+        "name": "Droit Au Logement",
+        "description": "A French NGO fighting for housing rights, providing support to homeless individuals, including migrants and refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "service_immigration_fr",
+        "name": "Service Immigration",
+        "description": "A French organization providing legal advice and advocacy for immigrants navigating the complex immigration system in France.",
+        "country": "FR"
+      },
+      {
+        "id": "partenaire_refugies_fr",
+        "name": "Partenaire Réfugiés",
+        "description": "A French organization partnering with local communities to provide housing, job placement, and social integration services to refugees.",
+        "country": "FR"
+      }
+    ]
+  }
+}

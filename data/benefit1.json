@@ -1,0 +1,106 @@
+{
+  "nodes": {
+    "Benefit": [
+      {
+        "id": "financial_aid",
+        "name": "Financial Aid",
+        "description": "Monetary support provided to refugees and asylum seekers to cover basic living expenses, including housing and food."
+      },
+      {
+        "id": "legal_protection",
+        "name": "Legal Protection",
+        "description": "Legal safeguards provided to refugees and asylum seekers, including protection from deportation and the right to appeal asylum decisions."
+      },
+      {
+        "id": "temporary_residence_permit",
+        "name": "Temporary Residence Permit",
+        "description": "A legal document allowing refugees and asylum seekers to reside temporarily in the host country while their application is processed."
+      },
+      {
+        "id": "healthcare_access_benefit",
+        "name": "Healthcare Access",
+        "description": "Access to medical services, including emergency care, preventive services, and mental health support for refugees and asylum seekers."
+      },
+      {
+        "id": "family_reunification_benefit",
+        "name": "Family Reunification",
+        "description": "The right of refugees and immigrants to be reunited with their immediate family members under certain conditions."
+      },
+      {
+        "id": "housing_assistance",
+        "name": "Housing Assistance",
+        "description": "Support in securing temporary or permanent housing for refugees, asylum seekers, and other immigrants."
+      },
+      {
+        "id": "employment_rights",
+        "name": "Employment Rights",
+        "description": "The right to work and access job opportunities for refugees and immigrants, often including vocational training and job placement services."
+      },
+      {
+        "id": "education_access",
+        "name": "Education Access",
+        "description": "The right to enroll in educational programs, including language courses, primary and secondary education, and higher education for refugees and immigrants."
+      },
+      {
+        "id": "childcare_support",
+        "name": "Childcare Support",
+        "description": "Assistance provided to refugee and immigrant families in accessing childcare services, enabling parents to work or attend training."
+      },
+      {
+        "id": "social_welfare_support",
+        "name": "Social Welfare Support",
+        "description": "Access to social services, including counseling, community integration programs, and support networks for refugees and immigrants."
+      },
+      {
+        "id": "citizenship_pathway",
+        "name": "Pathway to Citizenship",
+        "description": "Opportunities for long-term residents, including refugees, to apply for permanent residency or citizenship in the host country."
+      },
+      {
+        "id": "unaccompanied_minor_protection",
+        "name": "Protection for Unaccompanied Minors",
+        "description": "Legal and social protections offered to children under 18 who arrive in the host country without a guardian."
+      },
+      {
+        "id": "disability_support",
+        "name": "Disability Support",
+        "description": "Specialized assistance and benefits provided to disabled refugees and immigrants, including accessibility services and healthcare."
+      },
+      {
+        "id": "mental_health_support_benefit",
+        "name": "Mental Health Support",
+        "description": "Access to counseling, therapy, and psychiatric care for refugees and immigrants dealing with trauma and mental health issues."
+      },
+      {
+        "id": "language_learning_support",
+        "name": "Language Learning Support",
+        "description": "Free or subsidized language courses offered to immigrants and refugees to help them integrate into the host society."
+      },
+      {
+        "id": "transportation_support",
+        "name": "Transportation Support",
+        "description": "Subsidized or free transportation services for refugees and immigrants to access essential services, including medical appointments and job interviews."
+      },
+      {
+        "id": "food_assistance",
+        "name": "Food Assistance",
+        "description": "Provision of food or financial support to purchase food for refugees, asylum seekers, and immigrants."
+      },
+      {
+        "id": "women_protection_benefit",
+        "name": "Protection for Women",
+        "description": "Special protections and support services for female refugees and immigrants, including victims of domestic violence or trafficking."
+      },
+      {
+        "id": "human_trafficking_survivor_support",
+        "name": "Support for Human Trafficking Survivors",
+        "description": "Legal and social support services provided to refugees and immigrants who are survivors of human trafficking."
+      },
+      {
+        "id": "elderly_care_benefit",
+        "name": "Elderly Care Support",
+        "description": "Benefits provided to elderly refugees and immigrants, including access to healthcare, social services, and assisted living facilities."
+      }
+    ]
+  }
+}

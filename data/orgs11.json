@@ -1,0 +1,405 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "secours_catholique",
+        "name": "Secours Catholique",
+        "description": "A French charity that provides emergency aid, social support, and advocacy for the poor, including refugees and migrants.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_secours_catholique_paris",
+              "name": "Secours Catholique Paris",
+              "street": "106 rue du Bac",
+              "postal_code": "75007",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 45 49 73 70"
+            }
+          ]
+        }
+      },
+      {
+        "id": "caritas_france",
+        "name": "Caritas France",
+        "description": "The French branch of Caritas, providing social services, emergency relief, and support to refugees and vulnerable populations.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_caritas_paris",
+              "name": "Caritas France Paris",
+              "street": "106 rue du Bac",
+              "postal_code": "75007",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.secours-catholique.org",
+              "email": "contact@secours-catholique.org",
+              "phone": "+33 1 45 49 73 70"
+            }
+          ]
+        }
+      },
+      {
+        "id": "medecins_du_monde",
+        "name": "Médecins du Monde",
+        "description": "A humanitarian organization providing medical care to vulnerable populations including migrants, refugees, and the homeless.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_medecins_du_monde_paris",
+              "name": "Médecins du Monde Paris",
+              "street": "62 rue Marcadet",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 44 92 15 15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "emmaus_france",
+        "name": "Emmaüs France",
+        "description": "An organization fighting poverty and homelessness in France through social enterprises, advocacy, and support for marginalized groups.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_emmaus_paris",
+              "name": "Emmaüs Paris",
+              "street": "32 rue des Bourdonnais",
+              "postal_code": "75001",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 48 87 30 30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "croix_rouge_francaise",
+        "name": "Croix-Rouge française",
+        "description": "The French Red Cross provides emergency aid, disaster relief, and education in communities affected by conflicts and health emergencies.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_croix_rouge_paris",
+              "name": "Croix-Rouge française Paris",
+              "street": "98 rue Didot",
+              "postal_code": "75014",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.croix-rouge.fr",
+              "email": null,
+              "phone": "+33 1 44 43 11 00"
+            }
+          ]
+        }
+      },
+      {
+        "id": "asf_france",
+        "name": "Avocats Sans Frontières France",
+        "description": "A French NGO that provides legal assistance and support to victims of human rights violations, including refugees and migrants.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_asf_france_paris",
+              "name": "ASF France Paris",
+              "street": "8 rue du Faubourg Poissonnière",
+              "postal_code": "75010",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.avocatssansfrontieres-france.org",
+              "email": "contact@avocatssansfrontieres-france.org",
+              "phone": "+33 1 83 76 28 30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "cimade",
+        "name": "La Cimade",
+        "description": "A French organization providing support and advocacy for migrants, refugees, and asylum seekers, focusing on legal assistance and human rights.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_cimade_paris",
+              "name": "La Cimade Paris",
+              "street": "64 rue Clisson",
+              "postal_code": "75013",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.lacimade.org",
+              "email": "contact@lacimade.org",
+              "phone": "+33 1 44 18 60 50"
+            }
+          ]
+        }
+      },
+      {
+        "id": "solidarite_sida",
+        "name": "Solidarité Sida",
+        "description": "An NGO working to fight HIV/AIDS through prevention, care, and support for affected populations, including migrants and refugees.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_solidarite_sida_paris",
+              "name": "Solidarité Sida Paris",
+              "street": "16 rue des Fossés Saint-Jacques",
+              "postal_code": "75005",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.solidarite-sida.org",
+              "email": "contact@solidarite-sida.org",
+              "phone": "+33 1 53 10 22 22"
+            }
+          ]
+        }
+      },
+      {
+        "id": "dom_asile",
+        "name": "Dom'Asile",
+        "description": "A French organization providing housing and support for asylum seekers and refugees, focusing on social and legal assistance.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_dom_asile_paris",
+              "name": "Dom'Asile Paris",
+              "street": "46 rue de Montreuil",
+              "postal_code": "75011",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 48 06 67 39"
+            }
+          ]
+        }
+      },
+      {
+        "id": "solidarite_laique",
+        "name": "Solidarité Laïque",
+        "description": "A French NGO supporting education and social integration for vulnerable populations, including refugees and migrants.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_solidarite_laique_paris",
+              "name": "Solidarité Laïque Paris",
+              "street": "22 rue Corvisart",
+              "postal_code": "75013",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.solidarite-laique.org",
+              "email": "contact@solidarite-laique.org",
+              "phone": "+33 1 45 35 26 16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "resf",
+        "name": "Réseau Éducation Sans Frontières (RESF)",
+        "description": "An organization advocating for the rights of undocumented children and their families to access education and social services in France.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_resf_paris",
+              "name": "RESF Paris",
+              "street": "21 ter rue Voltaire",
+              "postal_code": "75011",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 43 79 39 79"
+            }
+          ]
+        }
+      },
+      {
+        "id": "gisti",
+        "name": "Groupe d'information et de soutien des immigré·e·s (GISTI)",
+        "description": "A French organization providing legal advice and support to immigrants and refugees, and advocating for their rights.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_gisti_paris",
+              "name": "GISTI Paris",
+              "street": "3 Villa Marcès",
+              "postal_code": "75011",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.gisti.org",
+              "email": "contact@gisti.org",
+              "phone": "+33 1 43 14 84 84"
+            }
+          ]
+        }
+      },
+      {
+        "id": "mdm",
+        "name": "Médecins du Monde",
+        "description": "A humanitarian organization providing medical care to vulnerable populations including migrants, refugees, and the homeless.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_mdm_paris",
+              "name": "Médecins du Monde Paris",
+              "street": "62 rue Marcadet",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.medecinsdumonde.org",
+              "email": "contact@medecinsdumonde.org",
+              "phone": "+33 1 44 92 15 15"
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_cimade",
+        "name": "La Cimade",
+        "description": "A French NGO providing support and advocacy for migrants, refugees, and asylum seekers, focusing on legal assistance and human rights.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_cimade_paris",
+              "name": "La Cimade Paris",
+              "street": "64 rue Clisson",
+              "postal_code": "75013",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.lacimade.org",
+              "email": "contact@lacimade.org",
+              "phone": "+33 1 44 18 60 50"
+            }
+          ]
+        }
+      },
+      {
+        "id": "unicef_france",
+        "name": "UNICEF France",
+        "description": "The French branch of UNICEF, working to protect children's rights, including those of refugee and migrant children.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_unicef_paris",
+              "name": "UNICEF France Paris",
+              "street": "3 rue Duguay-Trouin",
+              "postal_code": "75006",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.unicef.fr",
+              "email": "contact@unicef.fr",
+              "phone": "+33 1 44 39 77 77"
+            }
+          ]
+        }
+      },
+      {
+        "id": "mrap",
+        "name": "Mouvement contre le Racisme et pour l'Amitié entre les Peuples (MRAP)",
+        "description": "An anti-racist organization in France working to combat discrimination and support victims of racism, including migrants and refugees.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_mrap_paris",
+              "name": "MRAP Paris",
+              "street": "43 boulevard de Magenta",
+              "postal_code": "75010",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.mrap.fr",
+              "email": "contact@mrap.fr",
+              "phone": "+33 1 53 38 99 99"
+            }
+          ]
+        }
+      },
+      {
+        "id": "asav",
+        "name": "ASAV (Association d'accueil aux médecins et aux victimes)",
+        "description": "A French organization providing legal aid and medical assistance to victims of violence, including refugees and migrants.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_asav_paris",
+              "name": "ASAV Paris",
+              "street": "26 rue de la Tombe Issoire",
+              "postal_code": "75014",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 45 43 88 16"
+            }
+          ]
+        }
+      },
+      {
+        "id": "secours_populaire_francais",
+        "name": "Secours Populaire Français",
+        "description": "A French NGO providing emergency aid, social services, and support to refugees and low-income individuals.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_secours_populaire_paris",
+              "name": "Secours Populaire Paris",
+              "street": "9-11 rue Froissart",
+              "postal_code": "75003",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.secourspopulaire.fr",
+              "email": "contact@secourspopulaire.fr",
+              "phone": "+33 1 44 78 21 00"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ufolep_fr",
+        "name": "UFOLEP",
+        "description": "Union Française des Œuvres Laïques d'Éducation Physique (UFOLEP) promotes inclusion and social cohesion through physical education, including programs for refugee youth.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_ufolep_paris",
+              "name": "UFOLEP Paris",
+              "street": "1-3 rue des Fossés Saint-Jacques",
+              "postal_code": "75005",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.ufolep.org",
+              "email": "contact@ufolep.org",
+              "phone": "+33 1 53 98 87 87"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

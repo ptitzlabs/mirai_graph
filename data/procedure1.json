@@ -1,0 +1,446 @@
+{
+  "nodes": {
+    "Procedure": [
+      {
+        "id": "asylum_application",
+        "name": "Asylum Application",
+        "description": "The formal process by which a person applies for refugee status in a host country."
+      },
+      {
+        "id": "border_asylum_request",
+        "name": "Border Asylum Request",
+        "description": "Requesting asylum upon arrival at the border of a host country."
+      },
+      {
+        "id": "temporary_residence_permit_application",
+        "name": "Temporary Residence Permit Application",
+        "description": "Applying for a permit to stay temporarily in the host country while an asylum claim is processed."
+      },
+      {
+        "id": "refugee_status_determination",
+        "name": "Refugee Status Determination",
+        "description": "The legal process to determine whether an asylum seeker qualifies as a refugee."
+      },
+      {
+        "id": "family_reunification_process",
+        "name": "Family Reunification Process",
+        "description": "The procedure to reunite refugees with their immediate family members in the host country."
+      },
+      {
+        "id": "subsidiary_protection_application",
+        "name": "Subsidiary Protection Application",
+        "description": "Applying for protection for those who do not qualify as refugees but are at risk if returned to their home country."
+      },
+      {
+        "id": "appeal_against_asylum_rejection",
+        "name": "Appeal Against Asylum Rejection",
+        "description": "The process of challenging a decision that denies asylum status."
+      },
+      {
+        "id": "asylum_interview",
+        "name": "Asylum Interview",
+        "description": "An interview conducted to assess the validity of an asylum seeker's claim."
+      },
+      {
+        "id": "detention_review_hearing",
+        "name": "Detention Review Hearing",
+        "description": "A legal procedure to determine whether an asylum seeker should be released from detention."
+      },
+      {
+        "id": "work_permit_application",
+        "name": "Work Permit Application",
+        "description": "The process of applying for authorization to work in the host country."
+      },
+      {
+        "id": "deportation_order_challenge",
+        "name": "Deportation Order Challenge",
+        "description": "The legal procedure to contest a deportation order issued against a refugee or asylum seeker."
+      },
+      {
+        "id": "temporary_protection_application",
+        "name": "Temporary Protection Application",
+        "description": "Applying for temporary protection status for those fleeing large-scale conflicts."
+      },
+      {
+        "id": "medical_examination_for_asylum",
+        "name": "Medical Examination for Asylum",
+        "description": "A health screening required as part of the asylum application process."
+      },
+      {
+        "id": "application_for_humanitarian_protection",
+        "name": "Application for Humanitarian Protection",
+        "description": "Requesting protection based on humanitarian grounds, often for those who do not meet the criteria for refugee status."
+      },
+      {
+        "id": "registration_of_asylum_seeker",
+        "name": "Registration of Asylum Seeker",
+        "description": "The initial process of registering an asylum seeker upon arrival in the host country."
+      },
+      {
+        "id": "country_of_origin_information_request",
+        "name": "Country of Origin Information Request",
+        "description": "Requesting detailed information about the asylum seeker's home country to assist in the refugee status determination process."
+      },
+      {
+        "id": "visa_extension_application",
+        "name": "Visa Extension Application",
+        "description": "The process of applying for an extension of a temporary visa while awaiting an asylum decision."
+      },
+      {
+        "id": "naturalization_application",
+        "name": "Naturalization Application",
+        "description": "The procedure for refugees to apply for citizenship in the host country."
+      },
+      {
+        "id": "unaccompanied_minor_protection_request",
+        "name": "Unaccompanied Minor Protection Request",
+        "description": "A process to ensure the safety and care of unaccompanied minors seeking asylum."
+      },
+      {
+        "id": "housing_assistance_application",
+        "name": "Housing Assistance Application",
+        "description": "Requesting support for finding and securing housing during the asylum process."
+      },
+      {
+        "id": "emergency_shelter_request",
+        "name": "Emergency Shelter Request",
+        "description": "Applying for immediate shelter upon arrival in the host country."
+      },
+      {
+        "id": "language_course_enrollment",
+        "name": "Language Course Enrollment",
+        "description": "The process of enrolling in language courses to facilitate integration into the host country."
+      },
+      {
+        "id": "healthcare_registration",
+        "name": "Healthcare Registration",
+        "description": "Registering for access to healthcare services in the host country."
+      },
+      {
+        "id": "education_access_request",
+        "name": "Education Access Request",
+        "description": "Applying for access to education for children and adults within the refugee or asylum-seeking community."
+      },
+      {
+        "id": "psychosocial_support_request",
+        "name": "Psychosocial Support Request",
+        "description": "Requesting access to mental health and social support services."
+      },
+      {
+        "id": "legal_aid_application",
+        "name": "Legal Aid Application",
+        "description": "The process of applying for legal representation or assistance during the asylum process."
+      },
+      {
+        "id": "vulnerability_assessment",
+        "name": "Vulnerability Assessment",
+        "description": "A procedure to identify and address the specific needs of vulnerable asylum seekers."
+      },
+      {
+        "id": "biometric_data_collection",
+        "name": "Biometric Data Collection",
+        "description": "The process of collecting biometric data, such as fingerprints, as part of the asylum application."
+      },
+      {
+        "id": "detention_appeal",
+        "name": "Detention Appeal",
+        "description": "Appealing a decision to detain an asylum seeker or refugee."
+      },
+      {
+        "id": "family_relocation_assistance",
+        "name": "Family Relocation Assistance",
+        "description": "Support for relocating family members to join a refugee or asylum seeker in the host country."
+      },
+      {
+        "id": "travel_document_application",
+        "name": "Travel Document Application",
+        "description": "Applying for travel documents necessary for international travel for refugees."
+      },
+      {
+        "id": "age_assessment_for_unaccompanied_minors",
+        "name": "Age Assessment for Unaccompanied Minors",
+        "description": "A procedure to verify the age of unaccompanied minors seeking asylum."
+      },
+      {
+        "id": "special_needs_assessment",
+        "name": "Special Needs Assessment",
+        "description": "Evaluating the specific needs of refugees with disabilities or other special conditions."
+      },
+      {
+        "id": "medical_treatment_request",
+        "name": "Medical Treatment Request",
+        "description": "Applying for access to necessary medical treatments for asylum seekers and refugees."
+      },
+      {
+        "id": "integration_assistance_request",
+        "name": "Integration Assistance Request",
+        "description": "Requesting support for integration into the host country's society, including job placement and social services."
+      },
+      {
+        "id": "asylum_hearing",
+        "name": "Asylum Hearing",
+        "description": "A formal court hearing to review an asylum seeker's case."
+      },
+      {
+        "id": "child_protection_referral",
+        "name": "Child Protection Referral",
+        "description": "Referring unaccompanied minors or children at risk to child protection services."
+      },
+      {
+        "id": "refugee_resettlement_application",
+        "name": "Refugee Resettlement Application",
+        "description": "Applying for resettlement in a third country for refugees who cannot return to their home country."
+      },
+      {
+        "id": "status_update_request",
+        "name": "Status Update Request",
+        "description": "Requesting updates on the status of an asylum or refugee application."
+      },
+      {
+        "id": "humanitarian_visa_application",
+        "name": "Humanitarian Visa Application",
+        "description": "Applying for a visa on humanitarian grounds, often for those in urgent need of protection."
+      },
+      {
+        "id": "voluntary_repatriation_application",
+        "name": "Voluntary Repatriation Application",
+        "description": "Applying to voluntarily return to one's country of origin."
+      },
+      {
+        "id": "identity_verification",
+        "name": "Identity Verification",
+        "description": "The process of verifying the identity of asylum seekers and refugees."
+      },
+      {
+        "id": "legal_status_verification",
+        "name": "Legal Status Verification",
+        "description": "Confirming the legal status of refugees or asylum seekers within the host country."
+      },
+      {
+        "id": "work_permit_renewal",
+        "name": "Work Permit Renewal",
+        "description": "The process of renewing a work permit for refugees or asylum seekers."
+      },
+      {
+        "id": "residence_permit_renewal",
+        "name": "Residence Permit Renewal",
+        "description": "Renewing a temporary or permanent residence permit."
+      },
+      {
+        "id": "human_trafficking_victim_identification",
+        "name": "Human Trafficking Victim Identification",
+        "description": "The procedure to identify and protect victims of human trafficking among refugees and asylum seekers."
+      },
+      {
+        "id": "detention_conditions_complaint",
+        "name": "Detention Conditions Complaint",
+        "description": "Filing a complaint about the conditions experienced in detention centers."
+      },
+      {
+        "id": "refugee_camp_registration",
+        "name": "Refugee Camp Registration",
+        "description": "Registering in a refugee camp upon arrival."
+      },
+      {
+        "id": "security_screening",
+        "name": "Security Screening",
+        "description": "A procedure to assess security risks associated with refugees or asylum seekers."
+      },
+      {
+        "id": "employment_assistance_request",
+        "name": "Employment Assistance Request",
+        "description": "Requesting help in finding employment in the host country."
+      },
+      {
+        "id": "temporary_housing_allocation",
+        "name": "Temporary Housing Allocation",
+        "description": "Assigning temporary housing to refugees or asylum seekers."
+      },
+      {
+        "id": "citizenship_interview",
+        "name": "Citizenship Interview",
+        "description": "An interview conducted as part of the naturalization process."
+      },
+      {
+        "id": "immigration_status_update",
+        "name": "Immigration Status Update",
+        "description": "Updating the immigration authorities about changes in personal circumstances."
+      },
+      {
+        "id": "mandatory_cultural_orientation",
+        "name": "Mandatory Cultural Orientation",
+        "description": "Participating in a cultural orientation program required for integration."
+      },
+      {
+        "id": "refugee_card_application",
+        "name": "Refugee Card Application",
+        "description": "Applying for an official refugee identification card."
+      },
+      {
+        "id": "dna_testing_for_family_reunification",
+        "name": "DNA Testing for Family Reunification",
+        "description": "Undergoing DNA testing to confirm familial relationships for reunification."
+      },
+      {
+        "id": "emergency_financial_aid_application",
+        "name": "Emergency Financial Aid Application",
+        "description": "Applying for financial assistance in urgent situations."
+      },
+      {
+        "id": "appeal_for_refugee_status_reinstatement",
+        "name": "Appeal for Refugee Status Reinstatement",
+        "description": "Challenging a decision to revoke refugee status."
+      },
+      {
+        "id": "immigration_court_hearing",
+        "name": "Immigration Court Hearing",
+        "description": "A court hearing to address issues related to immigration status."
+      },
+      {
+        "id": "gender_based_asylum_claim",
+        "name": "Gender-Based Asylum Claim",
+        "description": "Filing an asylum claim based on persecution due to gender."
+      },
+      {
+        "id": "human_rights_claim",
+        "name": "Human Rights Claim",
+        "description": "Requesting asylum based on the violation of fundamental human rights."
+      },
+      {
+        "id": "appeal_for_asylum_extension",
+        "name": "Appeal for Asylum Extension",
+        "description": "Requesting an extension of asylum protection due to ongoing risks."
+      },
+      {
+        "id": "housing_conditions_complaint",
+        "name": "Housing Conditions Complaint",
+        "description": "Filing a complaint regarding inadequate housing conditions."
+      },
+      {
+        "id": "disability_assessment_for_refugees",
+        "name": "Disability Assessment for Refugees",
+        "description": "Evaluating the needs and accommodations required for disabled refugees."
+      },
+      {
+        "id": "legal_advocacy_for_detained_asylum_seekers",
+        "name": "Legal Advocacy for Detained Asylum Seekers",
+        "description": "Providing legal representation to asylum seekers in detention."
+      },
+      {
+        "id": "immigration_status_verification",
+        "name": "Immigration Status Verification",
+        "description": "The procedure to verify an individual's immigration status."
+      },
+      {
+        "id": "unaccompanied_minor_guardianship_application",
+        "name": "Unaccompanied Minor Guardianship Application",
+        "description": "Requesting guardianship for unaccompanied minors."
+      },
+      {
+        "id": "migrant_workers_rights_claim",
+        "name": "Migrant Workers Rights Claim",
+        "description": "Filing a claim for the protection of labor rights for migrant workers."
+      },
+      {
+        "id": "temporary_housing_extension_request",
+        "name": "Temporary Housing Extension Request",
+        "description": "Requesting an extension of temporary housing accommodations."
+      },
+      {
+        "id": "deportation_deferral_request",
+        "name": "Deportation Deferral Request",
+        "description": "Requesting to delay or defer a deportation order."
+      },
+      {
+        "id": "emergency_medical_aid_application",
+        "name": "Emergency Medical Aid Application",
+        "description": "Applying for urgent medical assistance for asylum seekers and refugees."
+      },
+      {
+        "id": "volunteer_support_enrollment",
+        "name": "Volunteer Support Enrollment",
+        "description": "Registering for volunteer support services to assist refugees."
+      },
+      {
+        "id": "shelter_allocation_for_unaccompanied_minors",
+        "name": "Shelter Allocation for Unaccompanied Minors",
+        "description": "Providing shelter specifically for unaccompanied minors."
+      },
+      {
+        "id": "legal_referral_for_asylum_seekers",
+        "name": "Legal Referral for Asylum Seekers",
+        "description": "Referring asylum seekers to legal services for representation."
+      },
+      {
+        "id": "biometric_identity_verification",
+        "name": "Biometric Identity Verification",
+        "description": "Confirming identity through biometric data as part of the asylum process."
+      },
+      {
+        "id": "legal_advice_for_asylum_seekers",
+        "name": "Legal Advice for Asylum Seekers",
+        "description": "Providing legal guidance to individuals seeking asylum."
+      },
+      {
+        "id": "sponsorship_application_for_refugees",
+        "name": "Sponsorship Application for Refugees",
+        "description": "Applying for private or community sponsorship for refugees."
+      },
+      {
+        "id": "country_of_origin_risk_assessment",
+        "name": "Country of Origin Risk Assessment",
+        "description": "Evaluating the risks faced by asylum seekers if returned to their home country."
+      },
+      {
+        "id": "refugee_family_relocation_application",
+        "name": "Refugee Family Relocation Application",
+        "description": "Applying for relocation to another country to reunite with family members."
+      },
+      {
+        "id": "citizenship_oath_ceremony",
+        "name": "Citizenship Oath Ceremony",
+        "description": "The final step in the naturalization process, where refugees take an oath of allegiance."
+      },
+      {
+        "id": "appeal_against_detention",
+        "name": "Appeal Against Detention",
+        "description": "Challenging the decision to detain a refugee or asylum seeker."
+      },
+      {
+        "id": "social_services_enrollment",
+        "name": "Social Services Enrollment",
+        "description": "Registering for social services to support integration and well-being."
+      },
+      {
+        "id": "immigration_detention_review",
+        "name": "Immigration Detention Review",
+        "description": "A review of the legal grounds and conditions of immigration detention."
+      },
+      {
+        "id": "crisis_intervention_request",
+        "name": "Crisis Intervention Request",
+        "description": "Seeking immediate assistance in a crisis situation involving refugees."
+      },
+      {
+        "id": "visa_renewal_application",
+        "name": "Visa Renewal Application",
+        "description": "The process of renewing a visa for refugees or asylum seekers."
+      },
+      {
+        "id": "early_childhood_education_access",
+        "name": "Early Childhood Education Access",
+        "description": "Applying for access to early childhood education for refugee children."
+      },
+      {
+        "id": "human_rights_advocacy_request",
+        "name": "Human Rights Advocacy Request",
+        "description": "Requesting advocacy services for the protection of human rights for refugees and asylum seekers."
+      },
+      {
+        "id": "refugee_status_termination_appeal",
+        "name": "Refugee Status Termination Appeal",
+        "description": "Appealing a decision to terminate refugee status."
+      }
+    ]
+  }
+}

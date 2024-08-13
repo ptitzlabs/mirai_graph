@@ -1,0 +1,48 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "ofpra",
+        "name": "Office français de protection des réfugiés et apatrides (OFPRA)",
+        "description": "French Office for the Protection of Refugees and Stateless Persons responsible for examining and granting refugee status, stateless status, and subsidiary protection.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_ofpra",
+              "name": "OFPRA Contact",
+              "street": "201 rue Carnot",
+              "postal_code": "94120",
+              "city": "Fontenay-sous-Bois",
+              "country": "FR",
+              "website": "https://www.ofpra.gouv.fr",
+              "email": "contact@ofpra.gouv.fr",
+              "phone": "+33 1 58 68 10 10"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ofii",
+        "name": "Office Français de l'Immigration et de l'Intégration (OFII)",
+        "description": "Provides services related to immigration, integration, and asylum seekers, including support for employment and housing.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_ofii",
+              "name": "OFII Contact",
+              "street": "44 rue Bargue",
+              "postal_code": "75015",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.ofii.fr",
+              "email": "contact@ofii.fr",
+              "phone": "+33 1 42 50 09 00"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

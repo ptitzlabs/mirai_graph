@@ -1,0 +1,237 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "watizat",
+        "name": "Watizat",
+        "description": "Organization providing a practical guide for refugees and migrants in Paris, offering information on essential services and procedures.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_watizat",
+              "name": "Watizat",
+              "street": null,
+              "postal_code": null,
+              "city": "Paris",
+              "country": "FR",
+              "website": "http://www.watizat.org",
+              "email": "contact@watizat.org",
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "adjie",
+        "name": "ADJIE",
+        "description": "Organization providing legal assistance for unaccompanied minors in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_adjie",
+              "name": "ADJIE",
+              "street": null,
+              "postal_code": null,
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "la_croix_rouge_francaise",
+        "name": "La Croix Rouge Française",
+        "description": "Organization providing help with restoring family links for people who lost family members due to conflict, migration, or natural disaster.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_croix_rouge_francaise",
+              "name": "La Croix Rouge Française - Restoring Family Links",
+              "street": "2 rue Perrault",
+              "postal_code": "75001",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": "rlf.dt75@croix-rouge.fr",
+              "phone": "+33 7 77 46 62 40"
+            }
+          ]
+        }
+      },
+      {
+        "id": "safe_passage",
+        "name": "Safe Passage",
+        "description": "A UK-based organization working to secure safe and legal routes for refugees, particularly unaccompanied children, to reach safety.",
+        "country": "UK",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_safe_passage",
+              "name": "Safe Passage",
+              "street": null,
+              "postal_code": null,
+              "city": null,
+              "country": "UK",
+              "website": null,
+              "email": "reunification-ue@safepassage.fr",
+              "phone": "+33 6 42 56 17 30"
+            }
+          ]
+        }
+      },
+      {
+        "id": "paris_adresse",
+        "name": "Paris Adresse",
+        "description": "Organization providing domiciliation services for asylum seekers in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_paris_adresse",
+              "name": "Paris Adresse",
+              "street": "25 rue des Renaudes",
+              "postal_code": "75017",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "association_la_mie_de_pain",
+        "name": "Association La Mie de Pain",
+        "description": "Organization offering bag storage services in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_la_mie_de_pain",
+              "name": "Association La Mie de Pain",
+              "street": "113 rue Regnault",
+              "postal_code": "75013",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 44 06 96 88"
+            }
+          ]
+        }
+      },
+      {
+        "id": "adil_de_paris",
+        "name": "ADIL de Paris",
+        "description": "Local housing information agency offering advice on housing assistance schemes, housing rules, and laws in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_adil_de_paris",
+              "name": "ADIL de Paris",
+              "street": null,
+              "postal_code": null,
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "+33 1 42 79 50 50"
+            }
+          ]
+        }
+      },
+      {
+        "id": "point_d_accueil_logement",
+        "name": "Point d’Accueil Logement",
+        "description": "Organization providing information and help with social housing applications in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_point_d_accueil_logement",
+              "name": "Point d’Accueil Logement",
+              "street": null,
+              "postal_code": null,
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": "3975"
+            }
+          ]
+        }
+      },
+      {
+        "id": "kalî",
+        "name": "KÂLÎ",
+        "description": "Organization offering French lessons for women, including literacy and language skills in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_kali",
+              "name": "KÂLÎ",
+              "street": "57 rue Étienne Marcel",
+              "postal_code": "93100",
+              "city": "Montreuil",
+              "country": "FR",
+              "website": null,
+              "email": "association.kali2@gmail.com",
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "paroisse_saint_bernard",
+        "name": "Paroisse Saint-Bernard",
+        "description": "Church offering French and literacy lessons in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_paroisse_saint_bernard",
+              "name": "Paroisse Saint-Bernard",
+              "street": "6 rue Saint-Luc",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "aeri",
+        "name": "AERI",
+        "description": "Organization offering French and literacy lessons in Paris.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_aeri",
+              "name": "AERI",
+              "street": "57 rue Étienne Marcel",
+              "postal_code": "93100",
+              "city": "Montreuil",
+              "country": "FR",
+              "website": null,
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

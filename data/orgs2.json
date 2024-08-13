@@ -1,0 +1,288 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "amnesty_international",
+        "name": "Amnesty International",
+        "description": "A global movement campaigning for human rights and advocating for refugees and migrants.",
+        "country": "International"
+      },
+      {
+        "id": "human_rights_watch",
+        "name": "Human Rights Watch",
+        "description": "An international NGO that conducts research and advocacy on human rights issues, including the treatment of refugees and asylum seekers.",
+        "country": "International"
+      },
+      {
+        "id": "save_the_children",
+        "name": "Save the Children",
+        "description": "A global organization focused on improving the lives of children, including providing support to refugee and migrant children.",
+        "country": "International"
+      },
+      {
+        "id": "international_rescue_committee",
+        "name": "International Rescue Committee (IRC)",
+        "description": "An NGO providing emergency aid and long-term assistance to refugees and displaced people.",
+        "country": "International"
+      },
+      {
+        "id": "doctors_without_borders",
+        "name": "Doctors Without Borders (Médecins Sans Frontières)",
+        "description": "An international medical humanitarian organization providing medical care in conflict zones and to those displaced by conflict.",
+        "country": "International"
+      },
+      {
+        "id": "oxfam_international",
+        "name": "Oxfam International",
+        "description": "A confederation of 20 NGOs working together to end poverty and provide humanitarian assistance to refugees.",
+        "country": "International"
+      },
+      {
+        "id": "red_cross",
+        "name": "Red Cross / Red Crescent",
+        "description": "A humanitarian organization providing emergency assistance, disaster relief, and education, including services for refugees and migrants.",
+        "country": "International"
+      },
+      {
+        "id": "care_international",
+        "name": "CARE International",
+        "description": "A global humanitarian organization fighting global poverty and providing relief in emergencies, including support for displaced populations.",
+        "country": "International"
+      },
+      {
+        "id": "refugees_international",
+        "name": "Refugees International",
+        "description": "An advocacy group focused on generating lifesaving humanitarian assistance and protection for displaced people around the world.",
+        "country": "International"
+      },
+      {
+        "id": "caritas_internationalis",
+        "name": "Caritas Internationalis",
+        "description": "A Catholic charity organization providing humanitarian aid, development, and social services to refugees and vulnerable people.",
+        "country": "International"
+      },
+      {
+        "id": "the_asylum_access",
+        "name": "Asylum Access",
+        "description": "An NGO empowering refugees by advocating for their legal rights and providing legal aid.",
+        "country": "International"
+      },
+      {
+        "id": "humanity_inclusion",
+        "name": "Humanity & Inclusion",
+        "description": "An NGO providing support to people with disabilities and vulnerable populations in situations of poverty and exclusion, conflict, and disaster.",
+        "country": "International"
+      },
+      {
+        "id": "terre_des_hommes",
+        "name": "Terre des Hommes",
+        "description": "A network of organizations working to improve the lives of children worldwide, including those in refugee and migration contexts.",
+        "country": "International"
+      },
+      {
+        "id": "the_migrant_clinic",
+        "name": "The Migrant Clinic",
+        "description": "An organization providing free medical care and support to migrants and asylum seekers.",
+        "country": "International"
+      },
+      {
+        "id": "adopt_a_refugee",
+        "name": "Adopt a Refugee",
+        "description": "An organization focused on connecting sponsors with refugees in need of resettlement assistance.",
+        "country": "International"
+      },
+      {
+        "id": "women_refugee_commission",
+        "name": "Women's Refugee Commission",
+        "description": "An organization advocating for the rights and protection of displaced women and children.",
+        "country": "International"
+      },
+      {
+        "id": "solidarites_international",
+        "name": "Solidarités International",
+        "description": "A humanitarian organization providing assistance to people affected by conflict, including refugees and displaced persons.",
+        "country": "International"
+      },
+      {
+        "id": "action_against_hunger",
+        "name": "Action Against Hunger",
+        "description": "An NGO working to end hunger and malnutrition, providing food security and nutrition assistance to refugees and displaced people.",
+        "country": "International"
+      },
+      {
+        "id": "migration_policy_institute",
+        "name": "Migration Policy Institute",
+        "description": "A think tank that analyzes the movement of people worldwide and provides recommendations for managing migration and supporting refugees.",
+        "country": "International"
+      },
+      {
+        "id": "relief_international",
+        "name": "Relief International",
+        "description": "A humanitarian organization providing emergency relief, rehabilitation, and development programs for vulnerable communities, including refugees.",
+        "country": "International"
+      },
+      {
+        "id": "freedom_house",
+        "name": "Freedom House",
+        "description": "An NGO dedicated to the expansion of freedom and democracy worldwide, including advocating for the rights of refugees.",
+        "country": "International"
+      },
+      {
+        "id": "world_relief",
+        "name": "World Relief",
+        "description": "A humanitarian organization providing disaster relief, refugee resettlement, and community development.",
+        "country": "International"
+      },
+      {
+        "id": "open_society_foundations",
+        "name": "Open Society Foundations",
+        "description": "An international grant-making network supporting initiatives in education, public health, human rights, and legal reform, including refugee support.",
+        "country": "International"
+      },
+      {
+        "id": "save_the_children_uk",
+        "name": "Save the Children UK",
+        "description": "The UK branch of Save the Children, focusing on children's rights and providing support to refugee and migrant children.",
+        "country": "UK"
+      },
+      {
+        "id": "the_refugee_council",
+        "name": "The Refugee Council",
+        "description": "A UK-based NGO providing support and advice to refugees and asylum seekers.",
+        "country": "UK"
+      },
+      {
+        "id": "asylum_aid",
+        "name": "Asylum Aid",
+        "description": "A UK-based charity providing legal advice and representation to asylum seekers and refugees.",
+        "country": "UK"
+      },
+      {
+        "id": "refugee_action",
+        "name": "Refugee Action",
+        "description": "A UK charity that helps refugees and asylum seekers to build safe and productive lives in the UK.",
+        "country": "UK"
+      },
+      {
+        "id": "safe_passage",
+        "name": "Safe Passage",
+        "description": "A UK-based organization working to secure safe and legal routes for refugees, particularly unaccompanied children, to reach safety.",
+        "country": "UK"
+      },
+      {
+        "id": "redress",
+        "name": "REDRESS",
+        "description": "An NGO working to obtain justice for survivors of torture, including refugees who have suffered from torture.",
+        "country": "UK"
+      },
+      {
+        "id": "medical_justice",
+        "name": "Medical Justice",
+        "description": "A UK-based organization providing medical advice and assistance to immigration detainees and advocating for their rights.",
+        "country": "UK"
+      },
+      {
+        "id": "star_student_action_for_refugees",
+        "name": "Student Action for Refugees (STAR)",
+        "description": "A network of student groups across the UK working to improve the lives of refugees and asylum seekers.",
+        "country": "UK"
+      },
+      {
+        "id": "refugee_support_network",
+        "name": "Refugee Support Network",
+        "description": "An organization that helps young refugees and asylum seekers access education and build better futures.",
+        "country": "UK"
+      },
+      {
+        "id": "london_solidarity_network",
+        "name": "London Solidarity Network",
+        "description": "A grassroots organization providing support and advocacy for refugees, migrants, and asylum seekers in London.",
+        "country": "UK"
+      },
+      {
+        "id": "bail_for_immigration_detainees",
+        "name": "Bail for Immigration Detainees (BID)",
+        "description": "A UK charity challenging immigration detention through the provision of legal advice, information, and representation.",
+        "country": "UK"
+      },
+      {
+        "id": "migrants_rights_network",
+        "name": "Migrants' Rights Network",
+        "description": "A UK-based organization advocating for migrants' rights and promoting the fair treatment of migrants in the UK.",
+        "country": "UK"
+      },
+      {
+        "id": "rights_in_exile_program",
+        "name": "Rights in Exile Programme",
+        "description": "A global network offering legal advice and representation to refugees and asylum seekers.",
+        "country": "International"
+      },
+      {
+        "id": "aditus_foundation",
+        "name": "Aditus Foundation",
+        "description": "A Malta-based NGO focused on human rights advocacy, including the rights of refugees and migrants.",
+        "country": "Malta"
+      },
+      {
+        "id": "greek_council_for_refugees",
+        "name": "Greek Council for Refugees",
+        "description": "An NGO providing legal and social support to refugees and asylum seekers in Greece.",
+        "country": "Greece"
+      },
+      {
+        "id": "spanish_commission_for_refugee_assistance",
+        "name": "Spanish Commission for Refugee Assistance (CEAR)",
+        "description": "A Spanish NGO offering legal, social, and humanitarian assistance to refugees, asylum seekers, and migrants.",
+        "country": "Spain"
+      },
+      {
+        "id": "jrs_europe",
+        "name": "Jesuit Refugee Service Europe",
+        "description": "A faith-based organization offering support, legal assistance, and advocacy for refugees and asylum seekers across Europe.",
+        "country": "Europe"
+      },
+      {
+        "id": "italian_council_for_refugees",
+        "name": "Italian Council for Refugees (CIR)",
+        "description": "An NGO providing legal and social services to refugees and asylum seekers in Italy.",
+        "country": "Italy"
+      },
+      {
+        "id": "france_terre_dasile_fr",
+        "name": "France Terre d'Asile",
+        "description": "An organization in France supporting refugees and asylum seekers through legal aid, housing, and integration services.",
+        "country": "France"
+      },
+      {
+        "id": "cimade",
+        "name": "La Cimade",
+        "description": "A French NGO providing support and advocacy for migrants, refugees, and asylum seekers.",
+        "country": "France"
+      },
+      {
+        "id": "forum_refugie_cosi",
+        "name": "Forum Réfugiés-Cosi",
+        "description": "A French organization offering legal assistance, housing, and social support to refugees and asylum seekers.",
+        "country": "France"
+      },
+      {
+        "id": "emmaus_france",
+        "name": "Emmaus France",
+        "description": "A French NGO working with vulnerable populations, including refugees, to provide housing, employment, and social support.",
+        "country": "France"
+      },
+      {
+        "id": "exil_solidarite_fr",
+        "name": "Exil Solidarité",
+        "description": "A French association dedicated to supporting asylum seekers and refugees in navigating the asylum process.",
+        "country": "France"
+      },
+      {
+        "id": "gisti",
+        "name": "Groupe d'information et de soutien des immigré⋅e⋅s (GISTI)",
+        "description": "A French organization providing legal advice and support to immigrants and refugees, and advocating for their rights.",
+        "country": "France"
+      }
+    ]
+  }
+}

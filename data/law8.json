@@ -1,0 +1,60 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "french_constitution_article_24",
+        "name": "French Constitution Article 24",
+        "description": "Article of the French Constitution on the composition and role of Parliament.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113072"
+      },
+      {
+        "id": "french_constitution_article_25",
+        "name": "French Constitution Article 25",
+        "description": "Article of the French Constitution on the rules governing the election of members of Parliament.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113073"
+      },
+      {
+        "id": "french_constitution_article_26",
+        "name": "French Constitution Article 26",
+        "description": "Article of the French Constitution on parliamentary immunity.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113074"
+      },
+      {
+        "id": "french_constitution_article_27",
+        "name": "French Constitution Article 27",
+        "description": "Article of the French Constitution prohibiting the binding of parliamentary mandates.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113075"
+      },
+      {
+        "id": "french_constitution_article_28",
+        "name": "French Constitution Article 28",
+        "description": "Article of the French Constitution on the parliamentary session schedule.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113076"
+      },
+      {
+        "id": "french_constitution_article_29",
+        "name": "French Constitution Article 29",
+        "description": "Article of the French Constitution on extraordinary parliamentary sessions.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113077"
+      },
+      {
+        "id": "french_constitution_article_30",
+        "name": "French Constitution Article 30",
+        "description": "Article of the French Constitution on the opening of extraordinary parliamentary sessions.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113078"
+      },
+      {
+        "id": "french_constitution_article_31",
+        "name": "French Constitution Article 31",
+        "description": "Article of the French Constitution on the role of Government members in Parliament.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113079"
+      },
+      {
+        "id": "french_constitution_article_32",
+        "name": "French Constitution Article 32",
+        "description": "Article of the French Constitution on the election of the President of the National Assembly.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-01-01/#LEGISCTA000006113080"
+      }
+    ]
+  }
+}

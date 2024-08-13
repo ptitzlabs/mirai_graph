@@ -1,0 +1,126 @@
+{
+  "nodes": {
+    "Group": [
+      {
+        "id": "unaccompanied_minors",
+        "name": "Unaccompanied Minors",
+        "description": "Minors under 18 who arrive in France without a legal guardian, entitled to special protection and services.",
+        "country": "FR"
+      },
+      {
+        "id": "women_refugees",
+        "name": "Women Refugees",
+        "description": "Female refugees who may face gender-specific persecution and require tailored services and protection.",
+        "country": "FR"
+      },
+      {
+        "id": "lgbtq_refugees",
+        "name": "LGBTQ+ Refugees",
+        "description": "Refugees facing persecution due to their sexual orientation or gender identity, requiring specialized legal and social support.",
+        "country": "FR"
+      },
+      {
+        "id": "families",
+        "name": "Refugee Families",
+        "description": "Refugee families including spouses, children, and extended family members seeking reunification and collective asylum.",
+        "country": "FR"
+      },
+      {
+        "id": "asylum_seekers",
+        "name": "Asylum Seekers",
+        "description": "Individuals seeking asylum in France, awaiting the determination of their refugee status.",
+        "country": "FR"
+      },
+      {
+        "id": "subsidiary_protection_beneficiaries",
+        "name": "Subsidiary Protection Beneficiaries",
+        "description": "Individuals who do not qualify as refugees but are protected from deportation due to serious risks in their home country.",
+        "country": "FR"
+      },
+      {
+        "id": "students_in_exile",
+        "name": "Students in Exile",
+        "description": "Refugee or asylum-seeking students pursuing education in France under special protection or scholarship programs.",
+        "country": "FR"
+      },
+      {
+        "id": "stateless_persons",
+        "name": "Stateless Persons",
+        "description": "Individuals without nationality who seek protection and recognition in France.",
+        "country": "FR"
+      },
+      {
+        "id": "trafficking_survivors",
+        "name": "Human Trafficking Survivors",
+        "description": "Survivors of human trafficking seeking protection and support services in France.",
+        "country": "FR"
+      },
+      {
+        "id": "vulnerable_groups",
+        "name": "Vulnerable Groups",
+        "description": "Groups of refugees or asylum seekers who are considered vulnerable due to age, health, or other factors, requiring special protection.",
+        "country": "FR"
+      },
+      {
+        "id": "political_refugees",
+        "name": "Political Refugees",
+        "description": "Refugees who have fled their country due to political persecution, seeking asylum in France.",
+        "country": "FR"
+      },
+      {
+        "id": "war_refugees",
+        "name": "War Refugees",
+        "description": "Individuals who have fled their home countries due to armed conflict, seeking refuge in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ethnic_minority_refugees",
+        "name": "Ethnic Minority Refugees",
+        "description": "Refugees belonging to persecuted ethnic minorities, requiring protection and support in France.",
+        "country": "FR"
+      },
+      {
+        "id": "religious_minority_refugees",
+        "name": "Religious Minority Refugees",
+        "description": "Refugees fleeing persecution based on their religion, seeking asylum and protection in France.",
+        "country": "FR"
+      },
+      {
+        "id": "health_vulnerable_refugees",
+        "name": "Health Vulnerable Refugees",
+        "description": "Refugees with serious health conditions that make them particularly vulnerable, requiring specialized medical and social support.",
+        "country": "FR"
+      },
+      {
+        "id": "disabled_refugees",
+        "name": "Disabled Refugees",
+        "description": "Refugees with disabilities requiring accessible services and accommodations in France.",
+        "country": "FR"
+      },
+      {
+        "id": "refugee_children",
+        "name": "Refugee Children",
+        "description": "Children among refugee populations requiring specific protection, education, and social services.",
+        "country": "FR"
+      },
+      {
+        "id": "refugee_elderly",
+        "name": "Elderly Refugees",
+        "description": "Older refugees who require special health care, housing, and social services in France.",
+        "country": "FR"
+      },
+      {
+        "id": "internally_displaced_persons",
+        "name": "Internally Displaced Persons",
+        "description": "Individuals displaced within their home country but seeking asylum or protection in France due to ongoing threats.",
+        "country": "FR"
+      },
+      {
+        "id": "climate_refugees",
+        "name": "Climate Refugees",
+        "description": "Individuals displaced by climate change impacts, seeking asylum and protection in France.",
+        "country": "FR"
+      }
+    ]
+  }
+}

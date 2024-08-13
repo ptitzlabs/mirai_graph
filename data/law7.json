@@ -1,0 +1,89 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "french_constitution_article_10",
+        "name": "French Constitution Article 10",
+        "description": "Article of the French Constitution on the promulgation of laws by the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527553"
+      },
+      {
+        "id": "french_constitution_article_11",
+        "name": "French Constitution Article 11",
+        "description": "Article of the French Constitution on the process of calling a referendum.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527554"
+      },
+      {
+        "id": "french_constitution_article_12",
+        "name": "French Constitution Article 12",
+        "description": "Article of the French Constitution on the dissolution of the National Assembly by the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527555"
+      },
+      {
+        "id": "french_constitution_article_13",
+        "name": "French Constitution Article 13",
+        "description": "Article of the French Constitution on the President's power to appoint civil and military positions.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527556"
+      },
+      {
+        "id": "french_constitution_article_14",
+        "name": "French Constitution Article 14",
+        "description": "Article of the French Constitution on the ratification of treaties.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527557"
+      },
+      {
+        "id": "french_constitution_article_15",
+        "name": "French Constitution Article 15",
+        "description": "Article of the French Constitution on the supreme command of the armed forces.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527558"
+      },
+      {
+        "id": "french_constitution_article_16",
+        "name": "French Constitution Article 16",
+        "description": "Article of the French Constitution granting emergency powers to the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527559"
+      },
+      {
+        "id": "french_constitution_article_17",
+        "name": "French Constitution Article 17",
+        "description": "Article of the French Constitution on the President's right to grant pardons.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527560"
+      },
+      {
+        "id": "french_constitution_article_18",
+        "name": "French Constitution Article 18",
+        "description": "Article of the French Constitution on the President's right to address Parliament.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527561"
+      },
+      {
+        "id": "french_constitution_article_19",
+        "name": "French Constitution Article 19",
+        "description": "Article of the French Constitution on the countersignature of acts by the Prime Minister or ministers.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527562"
+      },
+      {
+        "id": "french_constitution_article_20",
+        "name": "French Constitution Article 20",
+        "description": "Article of the French Constitution on the role and responsibilities of the Government.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527563"
+      },
+      {
+        "id": "french_constitution_article_21",
+        "name": "French Constitution Article 21",
+        "description": "Article of the French Constitution on the role of the Prime Minister.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527564"
+      },
+      {
+        "id": "french_constitution_article_22",
+        "name": "French Constitution Article 22",
+        "description": "Article of the French Constitution on the countersignature of acts by the Prime Minister.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527565"
+      },
+      {
+        "id": "french_constitution_article_23",
+        "name": "French Constitution Article 23",
+        "description": "Article of the French Constitution on the incompatibility of certain public offices with parliamentary mandates.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071194/2023-07-01/#LEGIARTI000006527566"
+      }]
+  }
+}

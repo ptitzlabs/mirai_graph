@@ -1,0 +1,252 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "fsci_paris",
+        "name": "FSGT Paris",
+        "description": "Organization offering free sports activities in Paris including football, volleyball, running, climbing, boxing, and workouts.",
+        "country": "FR"
+      },
+      {
+        "id": "viking_sfa_fc",
+        "name": "Viking SFA FC",
+        "description": "Football club in Paris offering weekly sessions.",
+        "country": "FR"
+      },
+      {
+        "id": "terrain_d_avenir",
+        "name": "Terrain d'Avenir",
+        "description": "Organization offering various sports activities including climbing, basketball, rugby, and swimming in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "nour_yoga",
+        "name": "Nour Yoga",
+        "description": "Organization providing Hatha Yoga sessions in Paris, including women-only sessions.",
+        "country": "FR"
+      },
+      {
+        "id": "la_maison_bakhita",
+        "name": "La Maison Bakhita",
+        "description": "Organization in Paris providing job support, medical consultations, and various workshops.",
+        "country": "FR"
+      },
+      {
+        "id": "cedre",
+        "name": "CEDRE",
+        "description": "Organization offering sociocultural activities such as 'Café Papote', solidarity football training, and art mediation workshops in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "brigade_de_la_solidarite_populaire",
+        "name": "Brigade de la Solidarité Populaire",
+        "description": "Organization offering sociocultural activities including reading, games, and discussions in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "etape",
+        "name": "Etape",
+        "description": "Organization providing sociocultural activities including games, outings, and workshops.",
+        "country": "FR"
+      },
+      {
+        "id": "point_d_acces_au_droit",
+        "name": "Point d'Accès au Droit",
+        "description": "Organization offering legal assistance for employment, housing, family law, and more.",
+        "country": "FR"
+      },
+      {
+        "id": "mission_locale",
+        "name": "Mission Locale",
+        "description": "Organization providing professional support for young people between 16-25 years old with a residence permit in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "kodiko",
+        "name": "Kodiko",
+        "description": "Organization offering individual job coaching, French courses, and computer skills training for refugees in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "batik_et_madera",
+        "name": "Batik et Madera",
+        "description": "Organization providing socio-professional support and immersion stays for people with international protection.",
+        "country": "FR"
+      },
+      {
+        "id": "bimbamjob",
+        "name": "Bimbamjob",
+        "description": "Organization offering the Mobil'Emploi program, providing job support and guidance in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "sistech",
+        "name": "SISTECH",
+        "description": "Organization offering training programs in technology and digital professions for women refugees in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "adjie",
+        "name": "ADJIE",
+        "description": "Organization providing legal assistance for unaccompanied minors in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "utopia_56",
+        "name": "Utopia 56",
+        "description": "Organization offering material support, guidance, and accommodation for families, single women, and unaccompanied minors in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "emmaus_solidarite",
+        "name": "Emmaüs Solidarité",
+        "description": "Organization offering various services such as showers, medical and psychological support, and social assistance.",
+        "country": "FR"
+      },
+      {
+        "id": "arc_essentiel",
+        "name": "Arc Essentiel",
+        "description": "Organization providing administrative support, residency permit help, social housing search, and more for LGBTQIA+ refugees in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "autremonde",
+        "name": "Autremonde",
+        "description": "An organization offering activities and support for refugees, particularly women and children, in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "medecins_du_monde",
+        "name": "Médecins du Monde",
+        "description": "Organization providing medical and psychological support to vulnerable populations including refugees in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "bus_des_femmes",
+        "name": "Bus des Femmes",
+        "description": "An organization offering support to sex workers, including social and administrative help, HIV testing, and CPAM consultations.",
+        "country": "FR"
+      },
+      {
+        "id": "la_croix_rouge_francaise",
+        "name": "La Croix Rouge Française",
+        "description": "Organization providing help with restoring family links for people who lost family members due to conflict, migration, or natural disaster.",
+        "country": "FR"
+      },
+      {
+        "id": "safe_passage",
+        "name": "Safe Passage",
+        "description": "Organization offering support for people with minor or vulnerable family members stranded in Europe.",
+        "country": "FR"
+      },
+      {
+        "id": "paris_adresse",
+        "name": "Paris Adresse",
+        "description": "Organization providing domiciliation services for asylum seekers in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "association_la_mie_de_pain",
+        "name": "Association La Mie de Pain",
+        "description": "Organization offering bag storage services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "adil_de_paris",
+        "name": "ADIL de Paris",
+        "description": "Local housing information agency offering advice on housing assistance schemes, housing rules, and laws in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "point_d_accueil_logement",
+        "name": "Point d’Accueil Logement",
+        "description": "Organization providing information and help with social housing applications in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "kalî",
+        "name": "KÂLÎ",
+        "description": "Organization offering French lessons for women, including literacy and language skills in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "paroisse_saint_bernard",
+        "name": "Paroisse Saint-Bernard",
+        "description": "Church offering French and literacy lessons in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "aeri",
+        "name": "AERI",
+        "description": "Organization offering French and literacy lessons in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "karibu",
+        "name": "Karibu",
+        "description": "Organization offering free application-based French lessons for speakers of Arabic, Pashto, and Ukrainian.",
+        "country": "FR"
+      },
+      {
+        "id": "la_fabrique_du_sourire",
+        "name": "La Fabrique du Sourire",
+        "description": "Organization providing dinner services for those in need in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "p_tit_dej_solidaires",
+        "name": "P'tit Déj' Solidaires",
+        "description": "Organization offering breakfast services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "solidarite_migrants_wilson",
+        "name": "Solidarité Migrants Wilson",
+        "description": "Organization providing food services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "l_un_est_l_autre",
+        "name": "L'Un Est L'Autre",
+        "description": "Organization offering lunch and dinner services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "resto_du_coeur",
+        "name": "Resto du Coeur",
+        "description": "Organization providing meals to those in need in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "la_chorba",
+        "name": "La Chorba",
+        "description": "Organization offering meals to those in need in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "la_gamelle_de_jaures",
+        "name": "La Gamelle de Jaurès",
+        "description": "Organization offering dinner services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "une_chorba_pour_tous",
+        "name": "Une Chorba Pour Tous",
+        "description": "Organization offering meals in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "terre_d_asile",
+        "name": "Terre d'Asile",
+        "description": "Organization providing emergency accommodation services in Paris.",
+        "country": "FR"
+      },
+      {
+        "id": "secours_catholique",
+        "name": "Secours Catholique",
+        "description": "Organization offering sociocultural activities, cultural outings, and football training in Paris.",
+        "country": "FR"
+      }
+    ]
+  }
+}

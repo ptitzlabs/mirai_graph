@@ -1,0 +1,90 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "ceseda_article_l_542_4",
+        "name": "Ceseda Article L.542-4",
+        "description": "Article of the Code of Entry and Residence of Foreigners and Right of Asylum (Ceseda) concerning the expulsion of individuals whose asylum applications have been rejected.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032678723/2023-07-01"
+      },
+      {
+        "id": "dublin_regulation",
+        "name": "Dublin Regulation",
+        "description": "EU law determining the responsible state for asylum applications, establishing criteria and mechanisms for determining which country is responsible for examining an asylum application.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0604"
+      },
+      {
+        "id": "law_2013_604",
+        "name": "Regulation (EU) No 604/2013",
+        "description": "Criteria and mechanisms for determining the responsible Member State for examining asylum applications in the EU.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0604"
+      },
+      {
+        "id": "directive_2003_9_ec",
+        "name": "Directive 2003/9/EC",
+        "description": "EU directive establishing minimum standards for the reception of asylum seekers in Member States.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0009"
+      },
+      {
+        "id": "directive_2013_33_eu",
+        "name": "Directive 2013/33/EU",
+        "description": "EU directive laying down standards for the reception of applicants for international protection.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0033"
+      },
+      {
+        "id": "directive_2008_115_eu",
+        "name": "Directive 2008/115/EU",
+        "description": "EU directive on common standards and procedures in Member States for returning illegally staying third-country nationals.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0115"
+      },
+      {
+        "id": "directive_2011_33_eu",
+        "name": "Directive 2011/33/EU",
+        "description": "EU directive amending Directive 2003/109/EC to extend its scope to beneficiaries of international protection.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0098"
+      },
+      {
+        "id": "law_september_10_2018",
+        "name": "Law of September 10, 2018",
+        "description": "French law introducing new grounds for the loss of the right to stay and extending the grounds for detention and house arrest of asylum seekers.",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037366289"
+      },
+      {
+        "id": "ceseda_l_711_1",
+        "name": "Article L. 711-1 CESEDA",
+        "description": "French law granting constitutional asylum to individuals persecuted for their actions in favor of freedom.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032678723/2023-07-01"
+      },
+      {
+        "id": "ceseda_l_542_4",
+        "name": "Article L. 542-4 CESEDA",
+        "description": "French law mandating that individuals whose asylum application has been definitively rejected must leave French territory under threat of an expulsion measure.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032678723/2023-07-01"
+      },
+      {
+        "id": "law_january_26_2024",
+        "name": "Law of January 26, 2024",
+        "description": "French law making it compulsory to issue an expulsion order (OQTF) if an asylum application is definitively rejected.",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045012145"
+      },
+      {
+        "id": "law_july_6_1989",
+        "name": "Law of July 6, 1989",
+        "description": "French law protecting tenants against discriminatory refusals of rental.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068387/2023-08-01"
+      },
+      {
+        "id": "french_penal_code_article_132_77",
+        "name": "French Penal Code Article 132-77",
+        "description": "French penal code establishing that crimes committed due to the victim's gender, sexual orientation, or gender identity are aggravating circumstances.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006417753/2023-07-01"
+      },
+      {
+        "id": "french_penal_code_article_225_4_13",
+        "name": "French Penal Code Article 225-4-13",
+        "description": "French penal code criminalizing conversion therapy practices aimed at changing or suppressing a person's sexual orientation or gender identity.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006417753/2023-07-01"
+      }
+    ]
+  }
+}

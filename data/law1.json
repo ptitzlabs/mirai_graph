@@ -1,0 +1,401 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "dublin_regulation",
+        "name": "Dublin Regulation",
+        "description": "EU law determining the responsible state for asylum applications, establishing criteria and mechanisms for determining which country is responsible for examining an asylum application."
+      },
+      {
+        "id": "law_2013_604",
+        "name": "Regulation (EU) No 604/2013",
+        "description": "Criteria and mechanisms for determining the responsible Member State for examining asylum applications in the EU."
+      },
+      {
+        "id": "directive_2003_9_ec",
+        "name": "Directive 2003/9/EC",
+        "description": "EU directive establishing minimum standards for the reception of asylum seekers in Member States."
+      },
+      {
+        "id": "directive_2013_33_eu",
+        "name": "Directive 2013/33/EU",
+        "description": "EU directive laying down standards for the reception of applicants for international protection."
+      },
+      {
+        "id": "directive_2008_115_eu",
+        "name": "Directive 2008/115/EU",
+        "description": "EU directive on common standards and procedures in Member States for returning illegally staying third-country nationals."
+      },
+      {
+        "id": "directive_2011_33_eu",
+        "name": "Directive 2011/33/EU",
+        "description": "EU directive amending Directive 2003/109/EC to extend its scope to beneficiaries of international protection."
+      },
+      {
+        "id": "law_september_10_2018",
+        "name": "Law of September 10, 2018",
+        "description": "French law introducing new grounds for the loss of the right to stay and extending the grounds for detention and house arrest of asylum seekers."
+      },
+      {
+        "id": "ceseda_l_711_1",
+        "name": "Article L. 711-1 CESEDA",
+        "description": "French law granting constitutional asylum to individuals persecuted for their actions in favor of freedom."
+      },
+      {
+        "id": "ceseda_l_542_4",
+        "name": "Article L. 542-4 CESEDA",
+        "description": "French law mandating that individuals whose asylum application has been definitively rejected must leave French territory under threat of an expulsion measure."
+      },
+      {
+        "id": "law_january_26_2024",
+        "name": "Law of January 26, 2024",
+        "description": "French law making it compulsory to issue an expulsion order (OQTF) if an asylum application is definitively rejected."
+      },
+      {
+        "id": "law_july_6_1989",
+        "name": "Law of July 6, 1989",
+        "description": "French law protecting tenants against discriminatory refusals of rental."
+      },
+      {
+        "id": "french_penal_code_article_132_77",
+        "name": "French Penal Code Article 132-77",
+        "description": "French penal code establishing that crimes committed due to the victim's gender, sexual orientation, or gender identity are aggravating circumstances."
+      },
+      {
+        "id": "french_penal_code_article_225_4_13",
+        "name": "French Penal Code Article 225-4-13",
+        "description": "French penal code criminalizing conversion therapy practices aimed at changing or suppressing a person's sexual orientation or gender identity."
+      },
+      {
+        "id": "law_2003_109_ce",
+        "name": "Directive 2003/109/EC",
+        "description": "EU directive concerning the status of third-country nationals who are long-term residents."
+      },
+      {
+        "id": "regulation_439_2010",
+        "name": "Regulation (EU) No 439/2010",
+        "description": "EU regulation establishing the European Asylum Support Office (EASO)."
+      },
+      {
+        "id": "french_civil_code_article_l_371_1",
+        "name": "French Civil Code Article L. 371-1",
+        "description": "French civil code defining parental authority as a set of rights and duties aimed at the interest of the child."
+      },
+      {
+        "id": "french_civil_code_article_22_1",
+        "name": "French Civil Code Article 22-1",
+        "description": "French civil code article related to the conditions under which a guarantor may unilaterally terminate a surety agreement."
+      },
+      {
+        "id": "law_july_29_1881",
+        "name": "Law of July 29, 1881",
+        "description": "French law on the freedom of the press, addressing offenses such as public insults and defamation."
+      },
+      {
+        "id": "ceseda_article_l_542_2",
+        "name": "Article L. 542-2 CESEDA",
+        "description": "French law listing the reasons for loss of the right to stay and the conditions for detention or house arrest of asylum seekers."
+      },
+      {
+        "id": "ceseda_article_l_753_1",
+        "name": "Article L. 753-1 CESEDA",
+        "description": "French law allowing individuals subject to a deportation order to request the suspension of the execution of the measure within 48 hours of notification."
+      },
+      {
+        "id": "french_penal_code_article_225_1",
+        "name": "French Penal Code Article 225-1",
+        "description": "French penal code prohibiting discrimination based on origin, name, physical appearance, sex, family situation, and other characteristics."
+      },
+      {
+        "id": "french_penal_code_article_225_2",
+        "name": "French Penal Code Article 225-2",
+        "description": "French penal code outlining penalties for acts of discrimination, including imprisonment and fines."
+      },
+      {
+        "id": "french_penal_code_article_225_3",
+        "name": "French Penal Code Article 225-3",
+        "description": "French penal code addressing discrimination in the refusal to provide services or benefits based on prohibited characteristics."
+      },
+      {
+        "id": "french_penal_code_article_225_4",
+        "name": "French Penal Code Article 225-4",
+        "description": "French penal code providing legal protections against discrimination in housing, employment, and public services."
+      },
+      {
+        "id": "european_convention_on_human_rights",
+        "name": "European Convention on Human Rights",
+        "description": "An international treaty to protect human rights and fundamental freedoms in Europe."
+      },
+      {
+        "id": "french_civil_code_article_16",
+        "name": "French Civil Code Article 16",
+        "description": "French civil code article concerning the protection of the human body and human dignity."
+      },
+      {
+        "id": "law_january_6_1978",
+        "name": "Law of January 6, 1978",
+        "description": "French law on data protection, known as the Data Protection Act (Loi Informatique et Libertés)."
+      },
+      {
+        "id": "french_constitution_article_66",
+        "name": "French Constitution Article 66",
+        "description": "Article of the French Constitution ensuring that no one shall be arbitrarily detained."
+      },
+      {
+        "id": "geneva_convention",
+        "name": "Geneva Convention",
+        "description": "International treaty establishing standards for the treatment of refugees, including the rights and protections afforded to them."
+      },
+      {
+        "id": "universal_declaration_of_human_rights",
+        "name": "Universal Declaration of Human Rights",
+        "description": "A foundational international document outlining the rights and freedoms to which all human beings are entitled."
+      },
+      {
+        "id": "un_convention_against_torture",
+        "name": "UN Convention Against Torture",
+        "description": "International treaty aiming to prevent torture and other cruel, inhuman, or degrading treatment or punishment."
+      },
+      {
+        "id": "un_convention_on_the_rights_of_the_child",
+        "name": "UN Convention on the Rights of the Child",
+        "description": "International treaty outlining the civil, political, economic, social, and cultural rights of children."
+      },
+      {
+        "id": "international_covenant_on_civil_and_political_rights",
+        "name": "International Covenant on Civil and Political Rights",
+        "description": "International treaty committing its parties to respect the civil and political rights of individuals."
+      },
+      {
+        "id": "international_covenant_on_economic_social_and_cultural_rights",
+        "name": "International Covenant on Economic, Social and Cultural Rights",
+        "description": "International treaty ensuring the protection of economic, social, and cultural rights."
+      },
+      {
+        "id": "rome_statute",
+        "name": "Rome Statute",
+        "description": "The treaty that established the International Criminal Court (ICC) to prosecute individuals for genocide, crimes against humanity, and war crimes."
+      },
+      {
+        "id": "law_of_december_31_1971",
+        "name": "Law of December 31, 1971",
+        "description": "French law on the organization and functioning of the legal profession."
+      },
+      {
+        "id": "directive_2011_36_eu",
+        "name": "Directive 2011/36/EU",
+        "description": "EU directive on preventing and combating trafficking in human beings and protecting its victims."
+      },
+      {
+        "id": "french_law_on_asylum_2015",
+        "name": "French Law on Asylum 2015",
+        "description": "French law reforming the asylum procedure, including the rights and obligations of asylum seekers."
+      },
+      {
+        "id": "law_on_foreigners_rights_2018",
+        "name": "Law on Foreigners' Rights 2018",
+        "description": "French law introducing new measures on the rights of foreigners, including changes to the asylum procedure."
+      },
+      {
+        "id": "charter_of_fundamental_rights_of_the_european_union",
+        "name": "Charter of Fundamental Rights of the European Union",
+        "description": "EU document enshrining the fundamental rights and freedoms of individuals within the European Union."
+      },
+      {
+        "id": "french_labour_code_article_l_1221_1",
+        "name": "French Labour Code Article L. 1221-1",
+        "description": "French labor code article outlining the general principles of employment contracts."
+      },
+      {
+        "id": "french_penal_code_article_221_1",
+        "name": "French Penal Code Article 221-1",
+        "description": "French penal code article defining the crime of murder and the applicable penalties."
+      },
+      {
+        "id": "french_penal_code_article_222_1",
+        "name": "French Penal Code Article 222-1",
+        "description": "French penal code article addressing acts of violence leading to death without intent to kill."
+      },
+      {
+        "id": "french_penal_code_article_225_5",
+        "name": "French Penal Code Article 225-5",
+        "description": "French penal code article addressing human trafficking and exploitation."
+      },
+      {
+        "id": "french_penal_code_article_223_6",
+        "name": "French Penal Code Article 223-6",
+        "description": "French penal code article on the duty to assist a person in danger."
+      },
+      {
+        "id": "french_penal_code_article_322_1",
+        "name": "French Penal Code Article 322-1",
+        "description": "French penal code article addressing the crime of arson and its penalties."
+      },
+      {
+        "id": "french_penal_code_article_431_1",
+        "name": "French Penal Code Article 431-1",
+        "description": "French penal code article on the protection of public order and the penalties for public disturbances."
+      },
+      {
+        "id": "french_constitution_article_1",
+        "name": "French Constitution Article 1",
+        "description": "Article of the French Constitution establishing the principles of equality and secularism."
+      },
+      {
+        "id": "french_constitution_article_2",
+        "name": "French Constitution Article 2",
+        "description": "Article of the French Constitution defining the official language, national symbols, and the capital of France."
+      },
+      {
+        "id": "french_constitution_article_3",
+        "name": "French Constitution Article 3",
+        "description": "Article of the French Constitution outlining the principles of national sovereignty and democratic representation."
+      },
+      {
+        "id": "french_constitution_article_4",
+        "name": "French Constitution Article 4",
+        "description": "Article of the French Constitution guaranteeing the pluralism of political parties."
+      },
+      {
+        "id": "french_constitution_article_5",
+        "name": "French Constitution Article 5",
+        "description": "Article of the French Constitution defining the role of the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_6",
+        "name": "French Constitution Article 6",
+        "description": "Article of the French Constitution on the election and term of the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_7",
+        "name": "French Constitution Article 7",
+        "description": "Article of the French Constitution on the process of electing the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_8",
+        "name": "French Constitution Article 8",
+        "description": "Article of the French Constitution on the appointment of the Prime Minister."
+      },
+      {
+        "id": "french_constitution_article_9",
+        "name": "French Constitution Article 9",
+        "description": "Article of the French Constitution defining the role of the Council of Ministers."
+      },
+      {
+        "id": "french_constitution_article_10",
+        "name": "French Constitution Article 10",
+        "description": "Article of the French Constitution on the promulgation of laws by the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_11",
+        "name": "French Constitution Article 11",
+        "description": "Article of the French Constitution on the process of calling a referendum."
+      },
+      {
+        "id": "french_constitution_article_12",
+        "name": "French Constitution Article 12",
+        "description": "Article of the French Constitution on the dissolution of the National Assembly by the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_13",
+        "name": "French Constitution Article 13",
+        "description": "Article of the French Constitution on the President's power to appoint civil and military positions."
+      },
+      {
+        "id": "french_constitution_article_14",
+        "name": "French Constitution Article 14",
+        "description": "Article of the French Constitution on the ratification of treaties."
+      },
+      {
+        "id": "french_constitution_article_15",
+        "name": "French Constitution Article 15",
+        "description": "Article of the French Constitution on the supreme command of the armed forces."
+      },
+      {
+        "id": "french_constitution_article_16",
+        "name": "French Constitution Article 16",
+        "description": "Article of the French Constitution granting emergency powers to the President of the Republic."
+      },
+      {
+        "id": "french_constitution_article_17",
+        "name": "French Constitution Article 17",
+        "description": "Article of the French Constitution on the President's right to grant pardons."
+      },
+      {
+        "id": "french_constitution_article_18",
+        "name": "French Constitution Article 18",
+        "description": "Article of the French Constitution on the President's right to address Parliament."
+      },
+      {
+        "id": "french_constitution_article_19",
+        "name": "French Constitution Article 19",
+        "description": "Article of the French Constitution on the countersignature of acts by the Prime Minister or ministers."
+      },
+      {
+        "id": "french_constitution_article_20",
+        "name": "French Constitution Article 20",
+        "description": "Article of the French Constitution on the role and responsibilities of the Government."
+      },
+      {
+        "id": "french_constitution_article_21",
+        "name": "French Constitution Article 21",
+        "description": "Article of the French Constitution on the role of the Prime Minister."
+      },
+      {
+        "id": "french_constitution_article_22",
+        "name": "French Constitution Article 22",
+        "description": "Article of the French Constitution on the countersignature of acts by the Prime Minister."
+      },
+      {
+        "id": "french_constitution_article_23",
+        "name": "French Constitution Article 23",
+        "description": "Article of the French Constitution on the incompatibility of certain public offices with parliamentary mandates."
+      },
+      {
+        "id": "french_constitution_article_24",
+        "name": "French Constitution Article 24",
+        "description": "Article of the French Constitution on the composition and role of Parliament."
+      },
+      {
+        "id": "french_constitution_article_25",
+        "name": "French Constitution Article 25",
+        "description": "Article of the French Constitution on the rules governing the election of members of Parliament."
+      },
+      {
+        "id": "french_constitution_article_26",
+        "name": "French Constitution Article 26",
+        "description": "Article of the French Constitution on parliamentary immunity."
+      },
+      {
+        "id": "french_constitution_article_27",
+        "name": "French Constitution Article 27",
+        "description": "Article of the French Constitution prohibiting the binding of parliamentary mandates."
+      },
+      {
+        "id": "french_constitution_article_28",
+        "name": "French Constitution Article 28",
+        "description": "Article of the French Constitution on the parliamentary session schedule."
+      },
+      {
+        "id": "french_constitution_article_29",
+        "name": "French Constitution Article 29",
+        "description": "Article of the French Constitution on extraordinary parliamentary sessions."
+      },
+      {
+        "id": "french_constitution_article_30",
+        "name": "French Constitution Article 30",
+        "description": "Article of the French Constitution on the opening of extraordinary parliamentary sessions."
+      },
+      {
+        "id": "french_constitution_article_31",
+        "name": "French Constitution Article 31",
+        "description": "Article of the French Constitution on the role of Government members in Parliament."
+      },
+      {
+        "id": "french_constitution_article_32",
+        "name": "French Constitution Article 32",
+        "description": "Article of the French Constitution on the election of the President of the National Assembly."
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "nodes": {
+    "Situation": [
+      {
+        "id": "fleeing_conflict",
+        "name": "Fleeing Conflict",
+        "description": "Leaving home country due to ongoing conflict or war."
+      },
+      {
+        "id": "fleeing_persecution",
+        "name": "Fleeing Persecution",
+        "description": "Escaping persecution based on race, religion, nationality, or political opinion."
+      },
+      {
+        "id": "economic_hardship",
+        "name": "Economic Hardship",
+        "description": "Leaving home due to severe economic conditions that threaten survival."
+      },
+      {
+        "id": "separation_from_family",
+        "name": "Separation from Family",
+        "description": "Being separated from family members during the migration process."
+      },
+      {
+        "id": "stuck_at_border",
+        "name": "Stuck at the Border",
+        "description": "Unable to cross into a country due to border restrictions."
+      },
+      {
+        "id": "detention",
+        "name": "Detention",
+        "description": "Being detained by authorities during or after crossing a border."
+      },
+      {
+        "id": "lack_of_documents",
+        "name": "Lack of Documents",
+        "description": "Inability to provide legal identification or travel documents."
+      },
+      {
+        "id": "homelessness",
+        "name": "Homelessness",
+        "description": "Lack of shelter or a stable place to live after displacement."
+      },
+      {
+        "id": "lack_of_access_to_healthcare",
+        "name": "Lack of Access to Healthcare",
+        "description": "Inability to receive medical treatment or health services."
+      },
+      {
+        "id": "psychological_trauma",
+        "name": "Psychological Trauma",
+        "description": "Experiencing emotional and mental distress due to past events."
+      },
+      {
+        "id": "unaccompanied_minor",
+        "name": "Unaccompanied Minor",
+        "description": "A child under 18 traveling alone without a guardian."
+      },
+      {
+        "id": "exploitation",
+        "name": "Exploitation",
+        "description": "Being subjected to forced labor, sexual exploitation, or other abuses."
+      },
+      {
+        "id": "discrimination",
+        "name": "Discrimination",
+        "description": "Facing prejudice or unequal treatment based on refugee status, race, or religion."
+      },
+      {
+        "id": "language_barrier",
+        "name": "Language Barrier",
+        "description": "Difficulty in communication due to not knowing the local language."
+      },
+      {
+        "id": "restricted_movement",
+        "name": "Restricted Movement",
+        "description": "Inability to travel freely due to legal, economic, or political barriers."
+      },
+      {
+        "id": "legal_uncertainty",
+        "name": "Legal Uncertainty",
+        "description": "Uncertainty about legal status and future in the host country."
+      },
+      {
+        "id": "loss_of_livelihood",
+        "name": "Loss of Livelihood",
+        "description": "Inability to work or earn income due to displacement."
+      },
+      {
+        "id": "limited_access_to_education",
+        "name": "Limited Access to Education",
+        "description": "Difficulty accessing educational opportunities for children and adults."
+      },
+      {
+        "id": "sexual_violence",
+        "name": "Sexual Violence",
+        "description": "Experiencing sexual abuse or violence during migration."
+      },
+      {
+        "id": "forced_return",
+        "name": "Forced Return",
+        "description": "Being deported back to the country of origin against one's will."
+      },
+      {
+        "id": "unsafe_living_conditions",
+        "name": "Unsafe Living Conditions",
+        "description": "Living in environments that pose health or safety risks."
+      },
+      {
+        "id": "food_insecurity",
+        "name": "Food Insecurity",
+        "description": "Lack of access to sufficient, safe, and nutritious food."
+      },
+      {
+        "id": "forced_marriage",
+        "name": "Forced Marriage",
+        "description": "Being forced into marriage against one's will."
+      },
+      {
+        "id": "human_trafficking",
+        "name": "Human Trafficking",
+        "description": "Being trafficked for exploitation, including forced labor or prostitution."
+      },
+      {
+        "id": "social_isolation",
+        "name": "Social Isolation",
+        "description": "Experiencing loneliness or exclusion from society."
+      },
+      {
+        "id": "poor_sanitation",
+        "name": "Poor Sanitation",
+        "description": "Lack of access to clean water, sanitation facilities, and hygiene."
+      },
+      {
+        "id": "lack_of_legal_representation",
+        "name": "Lack of Legal Representation",
+        "description": "Inability to access legal counsel or advocacy."
+      },
+      {
+        "id": "loss_of_cultural_identity",
+        "name": "Loss of Cultural Identity",
+        "description": "Struggling to maintain cultural practices and identity in a new environment."
+      },
+      {
+        "id": "forced_separation_from_children",
+        "name": "Forced Separation from Children",
+        "description": "Being separated from one's children during migration."
+      },
+      {
+        "id": "lack_of_access_to_information",
+        "name": "Lack of Access to Information",
+        "description": "Inability to access critical information regarding rights and services."
+      },
+      {
+        "id": "fear_of_authorities",
+        "name": "Fear of Authorities",
+        "description": "Fear of law enforcement or government officials due to potential consequences."
+      },
+      {
+        "id": "overcrowded_conditions",
+        "name": "Overcrowded Conditions",
+        "description": "Living in crowded environments that increase the risk of disease and violence."
+      },
+      {
+        "id": "limited_access_to_financial_services",
+        "name": "Limited Access to Financial Services",
+        "description": "Inability to open bank accounts, transfer money, or receive financial aid."
+      },
+      {
+        "id": "physical_insecurity",
+        "name": "Physical Insecurity",
+        "description": "Risk of physical harm or violence in the host country."
+      },
+      {
+        "id": "denied_asylum",
+        "name": "Denied Asylum",
+        "description": "Having an asylum application rejected, leading to uncertainty or deportation."
+      },
+      {
+        "id": "bureaucratic_delays",
+        "name": "Bureaucratic Delays",
+        "description": "Experiencing delays in processing legal or administrative documents."
+      },
+      {
+        "id": "unsanitary_health_conditions",
+        "name": "Unsanitary Health Conditions",
+        "description": "Living in conditions that contribute to the spread of disease and illness."
+      },
+      {
+        "id": "limited_access_to_transportation",
+        "name": "Limited Access to Transportation",
+        "description": "Inability to access affordable and reliable transportation services."
+      },
+      {
+        "id": "fear_of_retribution",
+        "name": "Fear of Retribution",
+        "description": "Fear of harm or punishment from the country of origin for seeking asylum."
+      },
+      {
+        "id": "lack_of_psychosocial_support",
+        "name": "Lack of Psychosocial Support",
+        "description": "Absence of emotional and social support systems."
+      },
+      {
+        "id": "loss_of_property",
+        "name": "Loss of Property",
+        "description": "Having personal property destroyed, stolen, or left behind during migration."
+      },
+      {
+        "id": "inconsistent_access_to_aid",
+        "name": "Inconsistent Access to Aid",
+        "description": "Receiving irregular or insufficient humanitarian assistance."
+      },
+      {
+        "id": "uncertain_future",
+        "name": "Uncertain Future",
+        "description": "Facing uncertainty regarding long-term stability and security."
+      },
+      {
+        "id": "gender_based_violence",
+        "name": "Gender-Based Violence",
+        "description": "Experiencing violence or abuse based on gender, often affecting women and LGBTQ+ individuals."
+      },
+      {
+        "id": "loss_of_social_status",
+        "name": "Loss of Social Status",
+        "description": "Experiencing a decline in social standing due to displacement."
+      },
+      {
+        "id": "lack_of_trust_in_systems",
+        "name": "Lack of Trust in Systems",
+        "description": "Distrust in governmental or non-governmental systems designed to assist refugees."
+      },
+      {
+        "id": "inadequate_clothing",
+        "name": "Inadequate Clothing",
+        "description": "Lack of appropriate clothing for weather conditions or cultural norms."
+      },
+      {
+        "id": "isolation_in_remote_areas",
+        "name": "Isolation in Remote Areas",
+        "description": "Being placed in or living in remote areas with limited access to services."
+      },
+      {
+        "id": "child_labor",
+        "name": "Child Labor",
+        "description": "Children being forced or compelled to work under exploitative conditions."
+      },
+      {
+        "id": "pregnancy_during_migration",
+        "name": "Pregnancy during Migration",
+        "description": "Facing the challenges of pregnancy while migrating or in refugee camps."
+      },
+      {
+        "id": "forced_relocation",
+        "name": "Forced Relocation",
+        "description": "Being forcibly moved to another area or country against one’s will."
+      },
+      {
+        "id": "lack_of_social_integration",
+        "name": "Lack of Social Integration",
+        "description": "Difficulty integrating into the social fabric of the host community."
+      },
+      {
+        "id": "barriers_to_employment",
+        "name": "Barriers to Employment",
+        "description": "Facing obstacles in finding and securing stable employment."
+      },
+      {
+        "id": "limited_access_to_legal_aid",
+        "name": "Limited Access to Legal Aid",
+        "description": "Inability to secure adequate legal representation and support."
+      },
+      {
+        "id": "violent_conflict_in_host_country",
+        "name": "Violent Conflict in Host Country",
+        "description": "Being exposed to violence and unrest in the country of refuge."
+      },
+      {
+        "id": "lack_of_childcare_support",
+        "name": "Lack of Childcare Support",
+        "description": "Inability to access childcare services, preventing parents from working or studying."
+      },
+      {
+        "id": "excessive_surveillance",
+        "name": "Excessive Surveillance",
+        "description": "Being subjected to continuous monitoring and surveillance by authorities."
+      },
+      {
+        "id": "displacement_due_to_climate_change",
+        "name": "Displacement due to Climate Change",
+        "description": "Forced to migrate due to environmental changes such as droughts, floods, or rising sea levels."
+      },
+      {
+        "id": "disconnection_from_community",
+        "name": "Disconnection from Community",
+        "description": "Losing contact with one's own community, leading to social and cultural isolation."
+      },
+      {
+        "id": "restrictions_on_freedom_of_expression",
+        "name": "Restrictions on Freedom of Expression",
+        "description": "Facing limitations on speaking freely or expressing political opinions in the host country."
+      },
+      {
+        "id": "fear_of_crime",
+        "name": "Fear of Crime",
+        "description": "Living in fear of being targeted by criminals in the host country."
+      },
+      {
+        "id": "disruption_of_education",
+        "name": "Disruption of Education",
+        "description": "Interruption of children’s schooling due to displacement or migration."
+      },
+      {
+        "id": "inadequate_healthcare_for_chronic_conditions",
+        "name": "Inadequate Healthcare for Chronic Conditions",
+        "description": "Lack of access to ongoing medical treatment for chronic illnesses."
+      },
+      {
+        "id": "loss_of_support_networks",
+        "name": "Loss of Support Networks",
+        "description": "Being cut off from friends, family, or other support networks."
+      },
+      {
+        "id": "inability_to_practice_religion",
+        "name": "Inability to Practice Religion",
+        "description": "Facing obstacles in practicing religious beliefs freely."
+      },
+      {
+        "id": "inconsistent_legal_status",
+        "name": "Inconsistent Legal Status",
+        "description": "Frequent changes in legal status, leading to instability and uncertainty."
+      },
+      {
+        "id": "limited_access_to_clean_water",
+        "name": "Limited Access to Clean Water",
+        "description": "Difficulty in obtaining safe drinking water, leading to health risks."
+      },
+      {
+        "id": "exposure_to_infectious_diseases",
+        "name": "Exposure to Infectious Diseases",
+        "description": "Increased risk of contracting diseases due to unsanitary conditions."
+      },
+      {
+        "id": "loss_of_trust_in_authorities",
+        "name": "Loss of Trust in Authorities",
+        "description": "Mistrust towards governmental authorities due to perceived or actual injustice."
+      },
+      {
+        "id": "fear_of_extradition",
+        "name": "Fear of Extradition",
+        "description": "Fear of being sent back to the country of origin to face prosecution or persecution."
+      },
+      {
+        "id": "unavailability_of_humanitarian_aid",
+        "name": "Unavailability of Humanitarian Aid",
+        "description": "Lack of access to essential humanitarian aid, such as food, shelter, or medical care."
+      },
+      {
+        "id": "pressure_to_assimilate",
+        "name": "Pressure to Assimilate",
+        "description": "Feeling compelled to abandon one's culture and adopt the customs of the host country."
+      },
+      {
+        "id": "rejection_by_host_community",
+        "name": "Rejection by Host Community",
+        "description": "Experiencing hostility or lack of acceptance from the local population."
+      },
+      {
+        "id": "increased_vulnerability_to_violence",
+        "name": "Increased Vulnerability to Violence",
+        "description": "Being at greater risk of violence due to displacement or refugee status."
+      },
+      {
+        "id": "inability_to_access_justice",
+        "name": "Inability to Access Justice",
+        "description": "Facing barriers to seeking legal recourse or justice in the host country."
+      },
+      {
+        "id": "social_stigmatization",
+        "name": "Social Stigmatization",
+        "description": "Being stigmatized or marginalized due to refugee status or ethnicity."
+      },
+      {
+        "id": "forced_displacement",
+        "name": "Forced Displacement",
+        "description": "Being compelled to leave home due to conflict, persecution, or natural disasters."
+      },
+      {
+        "id": "restricted_access_to_technology",
+        "name": "Restricted Access to Technology",
+        "description": "Inability to access communication technologies, limiting contact with others and access to information."
+      },
+      {
+        "id": "undocumented_status",
+        "name": "Undocumented Status",
+        "description": "Living without legal documentation, leading to difficulties accessing services and protections."
+      },
+      {
+        "id": "loss_of_language_fluency",
+        "name": "Loss of Language Fluency",
+        "description": "Struggling to retain or use one's native language due to prolonged displacement."
+      },
+      {
+        "id": "barriers_to_social_services",
+        "name": "Barriers to Social Services",
+        "description": "Difficulty in accessing social services such as welfare, healthcare, and education."
+      },
+      {
+        "id": "denial_of_human_rights",
+        "name": "Denial of Human Rights",
+        "description": "Experiencing violations of basic human rights, such as freedom, safety, and dignity."
+      },
+      {
+        "id": "involuntary_relocation",
+        "name": "Involuntary Relocation",
+        "description": "Being moved to a new location without consent, often under duress."
+      },
+      {
+        "id": "severe_climate_conditions",
+        "name": "Severe Climate Conditions",
+        "description": "Facing extreme weather conditions, such as heatwaves, cold spells, or floods, that impact safety and survival."
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "international_covenant_on_economic_social_and_cultural_rights",
+        "name": "International Covenant on Economic, Social and Cultural Rights",
+        "description": "International treaty ensuring the protection of economic, social, and cultural rights.",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights"
+      },
+      {
+        "id": "rome_statute",
+        "name": "Rome Statute",
+        "description": "The treaty that established the International Criminal Court (ICC) to prosecute individuals for genocide, crimes against humanity, and war crimes.",
+        "url": "https://www.icc-cpi.int/resource-library/documents/rs-eng.pdf"
+      },
+      {
+        "id": "law_of_december_31_1971",
+        "name": "Law of December 31, 1971",
+        "description": "French law on the organization and functioning of the legal profession.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000336882/"
+      },
+      {
+        "id": "directive_2011_36_eu",
+        "name": "Directive 2011/36/EU",
+        "description": "EU directive on preventing and combating trafficking in human beings and protecting its victims.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0036"
+      },
+      {
+        "id": "french_law_on_asylum_2015",
+        "name": "French Law on Asylum 2015",
+        "description": "French law reforming the asylum procedure, including the rights and obligations of asylum seekers.",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030402143/"
+      },
+      {
+        "id": "law_on_foreigners_rights_2018",
+        "name": "Law on Foreigners' Rights 2018",
+        "description": "French law introducing new measures on the rights of foreigners, including changes to the asylum procedure.",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037195722/"
+      },
+      {
+        "id": "charter_of_fundamental_rights_of_the_european_union",
+        "name": "Charter of Fundamental Rights of the European Union",
+        "description": "EU document enshrining the fundamental rights and freedoms of individuals within the European Union.",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT"
+      },
+      {
+        "id": "french_labour_code_article_l_1221_1",
+        "name": "French Labour Code Article L. 1221-1",
+        "description": "French labor code article outlining the general principles of employment contracts.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006088142/"
+      }]
+  }
+}

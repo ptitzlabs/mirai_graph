@@ -1,0 +1,171 @@
+{
+  "nodes": {
+    "LegalDocument": [
+      {
+        "id": "ofpra_form",
+        "name": "OFPRA Form",
+        "description": "Official form for asylum applications in France, submitted to OFPRA."
+      },
+      {
+        "id": "asylum_application_certificate",
+        "name": "Asylum Application Certificate (ATDA)",
+        "description": "Certificate provided to asylum seekers proving their application status."
+      },
+      {
+        "id": "residence_permit",
+        "name": "Residence Permit",
+        "description": "Legal document authorizing a foreign national to reside in France."
+      },
+      {
+        "id": "temporary_residence_permit",
+        "name": "Temporary Residence Permit",
+        "description": "Permit allowing temporary stay in France, typically for a specified purpose like study or work."
+      },
+      {
+        "id": "work_permit",
+        "name": "Work Permit",
+        "description": "Authorization for asylum seekers or foreign nationals to work in France."
+      },
+      {
+        "id": "passport",
+        "name": "Passport",
+        "description": "National identification document for international travel."
+      },
+      {
+        "id": "identity_card",
+        "name": "Identity Card",
+        "description": "Official identification document issued to residents, verifying identity within the country."
+      },
+      {
+        "id": "student_visa",
+        "name": "Student Visa",
+        "description": "Visa allowing foreign nationals to study in France, with potential for conversion to a residence permit."
+      },
+      {
+        "id": "dublin_transfer_decision",
+        "name": "Dublin Transfer Decision",
+        "description": "Document issued under the Dublin Regulation, deciding the responsible country for an asylum claim."
+      },
+      {
+        "id": "reception_certificate",
+        "name": "Reception Certificate",
+        "description": "Certificate confirming the reception of an asylum application by French authorities."
+      },
+      {
+        "id": "prefecture_appointment_letter",
+        "name": "Prefecture Appointment Letter",
+        "description": "Document issued by the Prefecture to schedule appointments for processing various immigration-related requests."
+      },
+      {
+        "id": "ofpra_decision_letter",
+        "name": "OFPRA Decision Letter",
+        "description": "Official communication from OFPRA regarding the outcome of an asylum application."
+      },
+      {
+        "id": "cnsa_appeal_certificate",
+        "name": "CNDA Appeal Certificate",
+        "description": "Document confirming the submission of an appeal to the National Court of Asylum (CNDA)."
+      },
+      {
+        "id": "oqtf_notice",
+        "name": "OQTF Notice",
+        "description": "Obligation to Leave French Territory (OQTF) notice issued to foreign nationals whose stay is no longer authorized."
+      },
+      {
+        "id": "renewal_receipt",
+        "name": "Renewal Receipt",
+        "description": "Receipt issued upon the renewal of asylum or residence documents."
+      },
+      {
+        "id": "travel_document_for_refugees",
+        "name": "Travel Document for Refugees",
+        "description": "Document issued to refugees, allowing them to travel internationally."
+      },
+      {
+        "id": "attestation_of_domiciliation",
+        "name": "Attestation of Domiciliation",
+        "description": "Proof of address document required for various administrative procedures in France."
+      },
+      {
+        "id": "family_reunification_application",
+        "name": "Family Reunification Application",
+        "description": "Application for bringing family members of a refugee or resident to France."
+      },
+      {
+        "id": "ofpra_notification_letter",
+        "name": "OFPRA Notification Letter",
+        "description": "Letter from OFPRA notifying an asylum seeker of important decisions or requests for additional information."
+      },
+      {
+        "id": "ada_receipt",
+        "name": "ADA Receipt",
+        "description": "Receipt confirming eligibility for the Asylum Seekers Allowance (ADA)."
+      },
+      {
+        "id": "passport_talent_application",
+        "name": "Passport Talent Application",
+        "description": "Application for a long-term visa or residence permit under the French 'Passeport Talent' scheme for skilled workers."
+      },
+      {
+        "id": "dublin_procedure_notice",
+        "name": "Dublin Procedure Notice",
+        "description": "Notice informing an asylum seeker that their application will be processed under the Dublin Regulation."
+      },
+      {
+        "id": "dcem_application",
+        "name": "DCEM Application",
+        "description": "Application for the 'Document de Circulation pour Étranger Mineur' (DCEM), allowing minors to travel abroad."
+      },
+      {
+        "id": "prefecture_rdv_receipt",
+        "name": "Prefecture RDV Receipt",
+        "description": "Receipt confirming a scheduled appointment with the Prefecture for processing documents."
+      },
+      {
+        "id": "prefecture_registration_letter",
+        "name": "Prefecture Registration Letter",
+        "description": "Letter confirming registration of an asylum application at the Prefecture."
+      },
+      {
+        "id": "cnda_hearing_notice",
+        "name": "CNDA Hearing Notice",
+        "description": "Notice of a scheduled hearing at the National Court of Asylum (CNDA) for an appeal."
+      },
+      {
+        "id": "expulsion_order",
+        "name": "Expulsion Order",
+        "description": "Legal order mandating the removal of an individual from French territory."
+      },
+      {
+        "id": "passeport_talent_document",
+        "name": "Passeport Talent Document",
+        "description": "Document issued under the 'Passeport Talent' program for highly skilled workers."
+      },
+      {
+        "id": "refugee_status_grant_letter",
+        "name": "Refugee Status Grant Letter",
+        "description": "Letter from OFPRA confirming the grant of refugee status."
+      },
+      {
+        "id": "asylum_story_document",
+        "name": "Asylum Story Document",
+        "description": "Personal narrative document submitted as part of the asylum application, detailing reasons for seeking asylum."
+      },
+      {
+        "id": "work_permit_application",
+        "name": "Work Permit Application",
+        "description": "Application submitted by an asylum seeker or foreign national to obtain a work permit."
+      },
+      {
+        "id": "renewal_application",
+        "name": "Renewal Application",
+        "description": "Application for the renewal of residence or asylum-related documents."
+      },
+      {
+        "id": "cnda_decision_letter",
+        "name": "CNDA Decision Letter",
+        "description": "Official communication from the CNDA regarding the outcome of an asylum appeal."
+      }
+    ]
+  }
+}

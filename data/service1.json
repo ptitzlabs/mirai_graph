@@ -1,0 +1,106 @@
+{
+  "nodes": {
+    "Service": [
+      {
+        "id": "asylum_application_support",
+        "name": "Asylum Application Support",
+        "description": "Assistance provided to asylum seekers during the process of submitting an asylum application, including guidance through the administrative procedures."
+      },
+      {
+        "id": "housing_for_asylum_seekers",
+        "name": "Housing for Asylum Seekers",
+        "description": "Provision of temporary accommodation for asylum seekers during the processing of their applications."
+      },
+      {
+        "id": "legal_aid_for_asylum_seekers",
+        "name": "Legal Aid for Asylum Seekers",
+        "description": "Legal support provided to asylum seekers, including assistance with appeals against asylum decisions and other legal matters related to their status."
+      },
+      {
+        "id": "healthcare_access",
+        "name": "Healthcare Access",
+        "description": "Facilitation of access to healthcare services for asylum seekers, including enrollment in health insurance programs and access to emergency medical care."
+      },
+      {
+        "id": "vocational_training",
+        "name": "Vocational Training",
+        "description": "Provision of vocational training programs to improve employability and professional skills for immigrants and refugees."
+      },
+      {
+        "id": "child_protection_for_unaccompanied_minors",
+        "name": "Child Protection for Unaccompanied Minors",
+        "description": "Support and protection services for unaccompanied foreign minors, including housing, education, and legal representation."
+      },
+      {
+        "id": "family_reunification",
+        "name": "Family Reunification Assistance",
+        "description": "Support services to assist with the process of family reunification for refugees and immigrants, including legal guidance and administrative support."
+      },
+      {
+        "id": "emergency_social_assistance",
+        "name": "Emergency Social Assistance",
+        "description": "Immediate assistance provided to individuals in crisis, including shelter, food, and emergency financial aid."
+      },
+      {
+        "id": "social_and_professional_integration",
+        "name": "Social and Professional Integration",
+        "description": "Programs aimed at helping immigrants integrate into society and the workforce, including language classes, job placement, and social services."
+      },
+      {
+        "id": "administrative_support_for_immigrants",
+        "name": "Administrative Support for Immigrants",
+        "description": "Assistance with administrative procedures related to immigration, such as applying for residence permits, work permits, and other official documentation."
+      },
+      {
+        "id": "support_for_victims_of_human_trafficking",
+        "name": "Support for Victims of Human Trafficking",
+        "description": "Specialized services for individuals who have been victims of human trafficking, including legal aid, psychological support, and assistance with reintegration."
+      },
+      {
+        "id": "language_training",
+        "name": "Language Training",
+        "description": "Language classes provided to immigrants and refugees to help them acquire proficiency in French, aiding their integration into society."
+      },
+      {
+        "id": "youth_services",
+        "name": "Youth Services",
+        "description": "Services targeted at young immigrants, including education, vocational training, and recreational activities."
+      },
+      {
+        "id": "mental_health_support",
+        "name": "Mental Health Support",
+        "description": "Access to mental health services for immigrants and refugees, including counseling and psychiatric care."
+      },
+      {
+        "id": "job_search_assistance",
+        "name": "Job Search Assistance",
+        "description": "Programs designed to assist immigrants and refugees in finding employment, including job placement services and career counseling."
+      },
+      {
+        "id": "financial_aid_for_immigrants",
+        "name": "Financial Aid for Immigrants",
+        "description": "Provision of financial assistance to immigrants and refugees in need, including emergency funds and aid for specific needs like housing or education."
+      },
+      {
+        "id": "support_for_disabled_immigrants",
+        "name": "Support for Disabled Immigrants",
+        "description": "Specialized services for immigrants and refugees with disabilities, including accessibility support and tailored assistance."
+      },
+      {
+        "id": "elderly_care_services",
+        "name": "Elderly Care Services",
+        "description": "Services aimed at supporting elderly immigrants, including healthcare, social services, and assistance with daily living activities."
+      },
+      {
+        "id": "women_protection_services",
+        "name": "Women Protection Services",
+        "description": "Services dedicated to protecting immigrant women, including support for victims of domestic violence and gender-based violence."
+      },
+      {
+        "id": "public_awareness_campaigns",
+        "name": "Public Awareness Campaigns",
+        "description": "Campaigns aimed at raising awareness about the rights of immigrants and refugees, combating discrimination, and promoting social cohesion."
+      }
+    ]
+  }
+}

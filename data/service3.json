@@ -1,0 +1,46 @@
+{
+  "nodes": {
+    "Service": [
+      {
+        "id": "material_support",
+        "name": "Material Support",
+        "description": "Provision of essential items like blankets, hygiene products, and food."
+      },
+      {
+        "id": "legal_assistance",
+        "name": "Legal Assistance",
+        "description": "Help with legal matters including asylum applications, CNDA appeals, and other legal challenges."
+      },
+      {
+        "id": "social_support",
+        "name": "Social Support",
+        "description": "Assistance with social integration, including access to social services and housing."
+      },
+      {
+        "id": "medical_support",
+        "name": "Medical Support",
+        "description": "Provision of healthcare services including medical check-ups, vaccinations, and emergency care."
+      },
+      {
+        "id": "psychological_support",
+        "name": "Psychological Support",
+        "description": "Mental health services including counseling and support for trauma."
+      },
+      {
+        "id": "accommodation_assistance",
+        "name": "Accommodation Assistance",
+        "description": "Help with finding emergency and long-term housing solutions."
+      },
+      {
+        "id": "day_care_services",
+        "name": "Day Care Services",
+        "description": "Provision of daytime shelter with access to showers, food, and rest."
+      },
+      {
+        "id": "hiv_testing",
+        "name": "HIV Testing",
+        "description": "Rapid testing for HIV, Hepatitis B, and Hepatitis C, provided by medical professionals."
+      }
+    ]
+  }
+}

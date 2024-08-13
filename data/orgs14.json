@@ -1,0 +1,69 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "france_terre_dasile_fr",
+        "name": "France Terre d'Asile",
+        "description": "An organization in France supporting refugees and asylum seekers through legal aid, housing, and integration services.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_france_terre_dasile",
+              "name": "France Terre d'Asile",
+              "street": "24 Rue Marc Seguin",
+              "postal_code": "75018",
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://www.france-terre-asile.org/",
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "forum_refugie_cosi",
+        "name": "Forum Réfugiés-Cosi",
+        "description": "A French organization offering legal assistance, housing, and social support to refugees and asylum seekers.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_forum_refugie_cosi",
+              "name": "Forum Réfugiés-Cosi",
+              "street": "322 Rue Garibaldi",
+              "postal_code": "69007",
+              "city": "Lyon",
+              "country": "FR",
+              "website": "https://www.forumrefugies.org/",
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      },
+      {
+        "id": "exil_solidarite_fr",
+        "name": "Exil Solidarité",
+        "description": "A French association dedicated to supporting asylum seekers and refugees in navigating the asylum process.",
+        "country": "FR",
+        "relationships": {
+          "CONTACT_AT": [
+            {
+              "id": "contact_exil_solidarite",
+              "name": "Exil Solidarité",
+              "street": null,
+              "postal_code": null,
+              "city": "Paris",
+              "country": "FR",
+              "website": "https://exilsolidaire.org/",
+              "email": null,
+              "phone": null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

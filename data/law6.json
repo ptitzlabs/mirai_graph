@@ -1,0 +1,95 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "french_penal_code_article_221_1",
+        "name": "French Penal Code Article 221-1",
+        "description": "French penal code article defining the crime of murder and the applicable penalties.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417542/"
+      },
+      {
+        "id": "french_penal_code_article_222_1",
+        "name": "French Penal Code Article 222-1",
+        "description": "French penal code article addressing acts of violence leading to death without intent to kill.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417550/"
+      },
+      {
+        "id": "french_penal_code_article_225_5",
+        "name": "French Penal Code Article 225-5",
+        "description": "French penal code article addressing human trafficking and exploitation.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417561/"
+      },
+      {
+        "id": "french_penal_code_article_223_6",
+        "name": "French Penal Code Article 223-6",
+        "description": "French penal code article on the duty to assist a person in danger.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417558/"
+      },
+      {
+        "id": "french_penal_code_article_322_1",
+        "name": "French Penal Code Article 322-1",
+        "description": "French penal code article addressing the crime of arson and its penalties.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417672/"
+      },
+      {
+        "id": "french_penal_code_article_431_1",
+        "name": "French Penal Code Article 431-1",
+        "description": "French penal code article on the protection of public order and the penalties for public disturbances.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417734/"
+      },
+      {
+        "id": "french_constitution_article_1",
+        "name": "French Constitution Article 1",
+        "description": "Article of the French Constitution establishing the principles of equality and secularism.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527753/"
+      },
+      {
+        "id": "french_constitution_article_2",
+        "name": "French Constitution Article 2",
+        "description": "Article of the French Constitution defining the official language, national symbols, and the capital of France.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527754/"
+      },
+      {
+        "id": "french_constitution_article_3",
+        "name": "French Constitution Article 3",
+        "description": "Article of the French Constitution outlining the principles of national sovereignty and democratic representation.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527755/"
+      },
+      {
+        "id": "french_constitution_article_4",
+        "name": "French Constitution Article 4",
+        "description": "Article of the French Constitution guaranteeing the pluralism of political parties.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527756/"
+      },
+      {
+        "id": "french_constitution_article_5",
+        "name": "French Constitution Article 5",
+        "description": "Article of the French Constitution defining the role of the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527757/"
+      },
+      {
+        "id": "french_constitution_article_6",
+        "name": "French Constitution Article 6",
+        "description": "Article of the French Constitution on the election and term of the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527758/"
+      },
+      {
+        "id": "french_constitution_article_7",
+        "name": "French Constitution Article 7",
+        "description": "Article of the French Constitution on the process of electing the President of the Republic.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527759/"
+      },
+      {
+        "id": "french_constitution_article_8",
+        "name": "French Constitution Article 8",
+        "description": "Article of the French Constitution on the appointment of the Prime Minister.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527760/"
+      },
+      {
+        "id": "french_constitution_article_9",
+        "name": "French Constitution Article 9",
+        "description": "Article of the French Constitution defining the role of the Council of Ministers.",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527761/"
+      }]
+  }
+}

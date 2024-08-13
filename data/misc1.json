@@ -1,0 +1,111 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "ceseda_article_l_542_4",
+        "name": "Ceseda Article L.542-4",
+        "description": "Article of the Code of Entry and Residence of Foreigners and Right of Asylum (Ceseda) concerning the expulsion of individuals whose asylum applications have been rejected."
+      }
+    ],
+    "Concept": [
+      {
+        "id": "security_risks",
+        "name": "Security Risks",
+        "description": "Risks associated with national security, which may affect the outcome of asylum procedures or the acceptance of refugees."
+      }
+    ],
+    "LegalDocument": [
+      {
+        "id": "cnda_appeal_certificate",
+        "name": "CNDA Appeal Certificate",
+        "description": "A certificate required for filing an appeal against an asylum decision with the National Court of Asylum (CNDA)."
+      }
+    ],
+    "Organization": [
+      {
+        "id": "cnr",
+        "name": "CNR",
+        "description": "An organization that supports political refugees, ethnic minorities, and religious minorities.",
+        "country": "FR"
+      },
+      {
+        "id": "asylum_courts",
+        "name": "Asylum Courts",
+        "description": "Courts responsible for adjudicating asylum cases and providing support to vulnerable refugee groups such as LGBTQ+, trafficking survivors, and health-vulnerable refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "asylum_access",
+        "name": "Asylum Access",
+        "description": "An organization that provides support to asylum seekers, students in exile, and LGBTQ+ refugees.",
+        "country": "FR"
+      },
+      {
+        "id": "resome",
+        "name": "RESOME",
+        "description": "An organization that supports students in exile and refugee children.",
+        "country": "FR"
+      },
+      {
+        "id": "ftda",
+        "name": "FTDA",
+        "description": "An organization that supports families, war refugees, and internally displaced persons.",
+        "country": "FR"
+      },
+      {
+        "id": "abc",
+        "name": "ABC",
+        "description": "An organization that provides support to unaccompanied minors, women refugees, and disabled refugees.",
+        "country": "FR"
+      }
+    ],
+    "Group": [
+      {
+        "id": "refugee_families",
+        "name": "Refugee Families",
+        "description": "Families who have been granted refugee status and may require additional support."
+      }
+    ]
+  },
+  "relationships": {
+    "DEFINED_BY": [
+      "appeal_against_asylum_rejection:ceseda_article_l_542_4"
+    ],
+    "ADDRESSES": [
+      "security_screening:security_risks"
+    ],
+    "REQUIRES": [
+      "appeal_against_asylum_rejection:cnda_appeal_certificate",
+      "legal_aid_application:cnda_appeal_certificate",
+      "appeal_for_refugee_status_reinstatement:cnda_appeal_certificate",
+      "immigration_court_hearing:cnda_appeal_certificate",
+      "appeal_for_asylum_extension:cnda_appeal_certificate",
+      "legal_referral_for_asylum_seekers:cnda_appeal_certificate",
+      "legal_advice_for_asylum_seekers:cnda_appeal_certificate",
+      "refugee_status_termination_appeal:cnda_appeal_certificate",
+      "legal_aid_for_asylum_seekers:cnda_appeal_certificate"
+    ],
+    "SUPPORTS": [
+      "cnr:political_refugees",
+      "cnr:ethnic_minority_refugees",
+      "cnr:religious_minority_refugees",
+      "asylum_courts:lgbtq_refugees",
+      "asylum_courts:trafficking_survivors",
+      "asylum_courts:health_vulnerable_refugees",
+      "ministry_of_social_affairs:refugee_families",
+      "unhcr:refugee_families",
+      "secours_catholique:refugee_families",
+      "asylum_access:asylum_seekers",
+      "asylum_access:students_in_exile",
+      "asylum_access:lgbtq_refugees",
+      "resome:students_in_exile",
+      "resome:refugee_children",
+      "ftda:families",
+      "ftda:war_refugees",
+      "ftda:internally_displaced_persons",
+      "abc:unaccompanied_minors",
+      "abc:women_refugees",
+      "abc:disabled_refugees"
+    ]
+  }
+}

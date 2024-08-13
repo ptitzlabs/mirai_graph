@@ -1,0 +1,251 @@
+{
+  "nodes": {
+    "Service": [
+      {
+        "id": "legal_aid_for_asylum_seekers",
+        "name": "Legal Aid for Asylum Seekers",
+        "description": "Provision of legal assistance to individuals applying for asylum, including help with application processes and appeals."
+      },
+      {
+        "id": "emergency_housing",
+        "name": "Emergency Housing",
+        "description": "Temporary accommodation provided to asylum seekers and refugees who are homeless or in urgent need of shelter."
+      },
+      {
+        "id": "healthcare_access",
+        "name": "Healthcare Access",
+        "description": "Provision of medical services, including access to hospitals and clinics, for refugees and asylum seekers."
+      },
+      {
+        "id": "language_classes",
+        "name": "Language Classes",
+        "description": "Language training programs aimed at helping refugees and asylum seekers learn the local language to facilitate integration."
+      },
+      {
+        "id": "financial_aid",
+        "name": "Financial Aid",
+        "description": "Monetary assistance provided to refugees and asylum seekers to help cover living expenses."
+      },
+      {
+        "id": "psychological_support",
+        "name": "Psychological Support",
+        "description": "Mental health services provided to refugees and asylum seekers to help them cope with trauma and stress."
+      },
+      {
+        "id": "child_protection",
+        "name": "Child Protection",
+        "description": "Services aimed at safeguarding the welfare of refugee and asylum-seeking children, including unaccompanied minors."
+      },
+      {
+        "id": "family_reunification_assistance",
+        "name": "Family Reunification Assistance",
+        "description": "Support for refugees and asylum seekers to bring family members to join them in the host country."
+      },
+      {
+        "id": "vocational_training",
+        "name": "Vocational Training",
+        "description": "Training programs designed to help refugees and asylum seekers gain skills for employment in their new country."
+      },
+      {
+        "id": "housing_support",
+        "name": "Housing Support",
+        "description": "Long-term housing assistance for refugees and asylum seekers, including help finding and securing permanent accommodation."
+      },
+      {
+        "id": "asylum_application_support",
+        "name": "Asylum Application Support",
+        "description": "Assistance provided to help individuals complete and submit their asylum applications."
+      },
+      {
+        "id": "social_integration_programs",
+        "name": "Social Integration Programs",
+        "description": "Programs aimed at helping refugees and asylum seekers integrate into their new communities."
+      },
+      {
+        "id": "employment_assistance",
+        "name": "Employment Assistance",
+        "description": "Support services to help refugees and asylum seekers find jobs, including job training and placement services."
+      },
+      {
+        "id": "educational_support_for_children",
+        "name": "Educational Support for Children",
+        "description": "Educational programs and services aimed at ensuring refugee and asylum-seeking children have access to schooling."
+      },
+      {
+        "id": "legal_representations_in_court",
+        "name": "Legal Representations in Court",
+        "description": "Provision of legal representation for refugees and asylum seekers in court cases related to their status."
+      },
+      {
+        "id": "nutrition_assistance",
+        "name": "Nutrition Assistance",
+        "description": "Food aid programs designed to ensure refugees and asylum seekers have access to sufficient nutrition."
+      },
+      {
+        "id": "translation_services",
+        "name": "Translation Services",
+        "description": "Provision of translation and interpretation services to help refugees and asylum seekers navigate legal, medical, and social systems."
+      },
+      {
+        "id": "detention_monitoring",
+        "name": "Detention Monitoring",
+        "description": "Oversight and advocacy services to monitor the treatment of detained asylum seekers and refugees."
+      },
+      {
+        "id": "temporary_accommodation",
+        "name": "Temporary Accommodation",
+        "description": "Short-term housing provided to refugees and asylum seekers while they await a more permanent solution."
+      },
+      {
+        "id": "case_management",
+        "name": "Case Management",
+        "description": "Personalized support services that help refugees and asylum seekers manage their legal, social, and medical needs."
+      },
+      {
+        "id": "trauma_counseling",
+        "name": "Trauma Counseling",
+        "description": "Specialized counseling services for refugees and asylum seekers who have experienced trauma."
+      },
+      {
+        "id": "cultural_orientation",
+        "name": "Cultural Orientation",
+        "description": "Programs that help refugees and asylum seekers understand the cultural norms and practices of their new country."
+      },
+      {
+        "id": "access_to_education",
+        "name": "Access to Education",
+        "description": "Ensuring that refugee and asylum-seeking children and adults can access educational opportunities."
+      },
+      {
+        "id": "financial_literacy_programs",
+        "name": "Financial Literacy Programs",
+        "description": "Programs aimed at helping refugees and asylum seekers manage finances, including budgeting and banking."
+      },
+      {
+        "id": "social_services_referrals",
+        "name": "Social Services Referrals",
+        "description": "Connecting refugees and asylum seekers with various social services, such as healthcare, legal aid, and housing."
+      },
+      {
+        "id": "domestic_violence_support",
+        "name": "Domestic Violence Support",
+        "description": "Support services for refugees and asylum seekers who are victims of domestic violence, including safe housing and counseling."
+      },
+      {
+        "id": "legal_documentation_assistance",
+        "name": "Legal Documentation Assistance",
+        "description": "Help with obtaining necessary legal documents such as residency permits, work permits, and identification cards."
+      },
+      {
+        "id": "referral_to_legal_services",
+        "name": "Referral to Legal Services",
+        "description": "Services that connect refugees and asylum seekers with legal professionals for assistance with their cases."
+      },
+      {
+        "id": "youth_support_services",
+        "name": "Youth Support Services",
+        "description": "Programs designed to support refugee and asylum-seeking youth with education, social integration, and employment."
+      },
+      {
+        "id": "elderly_support_services",
+        "name": "Elderly Support Services",
+        "description": "Specialized services to support elderly refugees and asylum seekers, including health care and social services."
+      },
+      {
+        "id": "advocacy_for_refugee_rights",
+        "name": "Advocacy for Refugee Rights",
+        "description": "Organizations and services that advocate for the legal and human rights of refugees and asylum seekers."
+      },
+      {
+        "id": "housing_search_assistance",
+        "name": "Housing Search Assistance",
+        "description": "Help finding permanent housing for refugees and asylum seekers."
+      },
+      {
+        "id": "gender_based_violence_support",
+        "name": "Gender-Based Violence Support",
+        "description": "Support services for refugees and asylum seekers who are victims of gender-based violence."
+      },
+      {
+        "id": "emergency_food_assistance",
+        "name": "Emergency Food Assistance",
+        "description": "Provision of food supplies to refugees and asylum seekers in crisis situations."
+      },
+      {
+        "id": "childcare_services",
+        "name": "Childcare Services",
+        "description": "Provision of childcare for refugee and asylum-seeking parents, enabling them to work or attend training."
+      },
+      {
+        "id": "integration_courses",
+        "name": "Integration Courses",
+        "description": "Educational programs that help refugees and asylum seekers integrate into their new society."
+      },
+      {
+        "id": "refugee_status_determination_support",
+        "name": "Refugee Status Determination Support",
+        "description": "Assistance provided to help refugees understand and navigate the process of gaining official refugee status."
+      },
+      {
+        "id": "transportation_assistance",
+        "name": "Transportation Assistance",
+        "description": "Help with transportation for refugees and asylum seekers to access services, attend appointments, or relocate."
+      },
+      {
+        "id": "community_support_networks",
+        "name": "Community Support Networks",
+        "description": "Networks that provide social and emotional support to refugees and asylum seekers within communities."
+      },
+      {
+        "id": "access_to_legal_information",
+        "name": "Access to Legal Information",
+        "description": "Provision of information about legal rights and procedures for refugees and asylum seekers."
+      },
+      {
+        "id": "family_counseling_services",
+        "name": "Family Counseling Services",
+        "description": "Counseling services aimed at helping refugee and asylum-seeking families cope with challenges."
+      },
+      {
+        "id": "language_translation_services",
+        "name": "Language Translation Services",
+        "description": "Services that offer translation of documents and interpretation in various languages for refugees and asylum seekers."
+      },
+      {
+        "id": "support_for_survivors_of_torture",
+        "name": "Support for Survivors of Torture",
+        "description": "Specialized support for refugees and asylum seekers who have been victims of torture."
+      },
+      {
+        "id": "public_awareness_campaigns",
+        "name": "Public Awareness Campaigns",
+        "description": "Campaigns aimed at raising awareness about the challenges faced by refugees and asylum seekers."
+      },
+      {
+        "id": "health_screening_services",
+        "name": "Health Screening Services",
+        "description": "Medical screening services provided to refugees and asylum seekers upon arrival."
+      },
+      {
+        "id": "support_for_stateless_persons",
+        "name": "Support for Stateless Persons",
+        "description": "Services tailored to the needs of stateless persons, including legal support and social services."
+      },
+      {
+        "id": "volunteer_support_services",
+        "name": "Volunteer Support Services",
+        "description": "Coordination of volunteers to support refugees and asylum seekers with various needs."
+      },
+      {
+        "id": "access_to_mental_health_services",
+        "name": "Access to Mental Health Services",
+        "description": "Provision of mental health services for refugees and asylum seekers dealing with psychological issues."
+      },
+      {
+        "id": "community_orientation_programs",
+        "name": "Community Orientation Programs",
+        "description": "Programs that help refugees and asylum seekers understand and adapt to their new communities."
+      }
+    ]
+  }
+}

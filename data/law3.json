@@ -1,0 +1,47 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "law_2003_109_ce",
+        "name": "Directive 2003/109/EC",
+        "description": "EU directive concerning the status of third-country nationals who are long-term residents.",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32003L0109&from=fr"
+      },
+      {
+        "id": "regulation_439_2010",
+        "name": "Regulation (EU) No 439/2010",
+        "description": "EU regulation establishing the European Asylum Support Office (EASO).",
+        "url": "http://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32014D0301&from=FR"
+      },
+      {
+        "id": "french_civil_code_article_l_371_1",
+        "name": "French Civil Code Article L. 371-1",
+        "description": "French civil code defining parental authority as a set of rights and duties aimed at the interest of the child.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006417689/2024-07-01"
+      },
+      {
+        "id": "french_civil_code_article_22_1",
+        "name": "French Civil Code Article 22-1",
+        "description": "French civil code article related to the conditions under which a guarantor may unilaterally terminate a surety agreement.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038000408/2024-07-01"
+      },
+      {
+        "id": "law_july_29_1881",
+        "name": "Law of July 29, 1881",
+        "description": "French law on the freedom of the press, addressing offenses such as public insults and defamation.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722/2024-07-01"
+      },
+      {
+        "id": "ceseda_article_l_542_2",
+        "name": "Article L. 542-2 CESEDA",
+        "description": "French law listing the reasons for loss of the right to stay and the conditions for detention or house arrest of asylum seekers.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032678723/2023-07-01"
+      },
+      {
+        "id": "ceseda_article_l_753_1",
+        "name": "Article L. 753-1 CESEDA",
+        "description": "French law allowing individuals subject to a deportation order to request the suspension of the execution of the measure within 48 hours of notification.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038000369/2024-07-01"
+      }]
+  }
+}

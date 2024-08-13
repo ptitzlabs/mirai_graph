@@ -1,0 +1,84 @@
+{
+  "nodes": {
+    "Law": [
+      {
+        "id": "french_penal_code_article_225_1",
+        "name": "French Penal Code Article 225-1",
+        "description": "French penal code prohibiting discrimination based on origin, name, physical appearance, sex, family situation, and other characteristics.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417818/"
+      },
+      {
+        "id": "french_penal_code_article_225_2",
+        "name": "French Penal Code Article 225-2",
+        "description": "French penal code outlining penalties for acts of discrimination, including imprisonment and fines.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417819/"
+      },
+      {
+        "id": "french_penal_code_article_225_3",
+        "name": "French Penal Code Article 225-3",
+        "description": "French penal code addressing discrimination in the refusal to provide services or benefits based on prohibited characteristics.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417820/"
+      },
+      {
+        "id": "french_penal_code_article_225_4",
+        "name": "French Penal Code Article 225-4",
+        "description": "French penal code providing legal protections against discrimination in housing, employment, and public services.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417821/"
+      },
+      {
+        "id": "european_convention_on_human_rights",
+        "name": "European Convention on Human Rights",
+        "description": "An international treaty to protect human rights and fundamental freedoms in Europe.",
+        "url": "https://www.echr.coe.int/documents/convention_eng.pdf"
+      },
+      {
+        "id": "french_civil_code_article_16",
+        "name": "French Civil Code Article 16",
+        "description": "French civil code article concerning the protection of the human body and human dignity.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417905/"
+      },
+      {
+        "id": "law_january_6_1978",
+        "name": "Law of January 6, 1978",
+        "description": "French law on data protection, known as the Data Protection Act (Loi Informatique et Libertés).",
+        "url": "https://www.cnil.fr/en/data-protection-law"
+      },
+      {
+        "id": "french_constitution_article_66",
+        "name": "French Constitution Article 66",
+        "description": "Article of the French Constitution ensuring that no one shall be arbitrarily detained.",
+        "url": "https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/constitution/constitution.pdf"
+      },
+      {
+        "id": "geneva_convention",
+        "name": "Geneva Convention",
+        "description": "International treaty establishing standards for the treatment of refugees, including the rights and protections afforded to them.",
+        "url": "https://www.unhcr.org/3b66c2aa10.html"
+      },
+      {
+        "id": "universal_declaration_of_human_rights",
+        "name": "Universal Declaration of Human Rights",
+        "description": "A foundational international document outlining the rights and freedoms to which all human beings are entitled.",
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+      },
+      {
+        "id": "un_convention_against_torture",
+        "name": "UN Convention Against Torture",
+        "description": "International treaty aiming to prevent torture and other cruel, inhuman, or degrading treatment or punishment.",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading"
+      },
+      {
+        "id": "un_convention_on_the_rights_of_the_child",
+        "name": "UN Convention on the Rights of the Child",
+        "description": "International treaty outlining the civil, political, economic, social, and cultural rights of children.",
+        "url": "https://www.unicef.org/child-rights-convention"
+      },
+      {
+        "id": "international_covenant_on_civil_and_political_rights",
+        "name": "International Covenant on Civil and Political Rights",
+        "description": "International treaty committing its parties to respect the civil and political rights of individuals.",
+        "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "nodes": {
+    "Organization": [
+      {
+        "id": "ofii",
+        "name": "Office français de l'immigration et de l'intégration (OFII)",
+        "description": "French Office of Immigration and Integration responsible for professional, academic, and family immigration procedures as well as managing the national asylum seeker reception system.",
+        "country": "FR"
+      },
+      {
+        "id": "ofpra",
+        "name": "Office français de protection des réfugiés et apatrides (OFPRA)",
+        "description": "French Office for the Protection of Refugees and Stateless Persons responsible for examining and granting refugee status, stateless status, and subsidiary protection.",
+        "country": "FR"
+      },
+      {
+        "id": "ddetfp",
+        "name": "Direction Départementale de l'Emploi, du Travail et de la Formation Professionnelle",
+        "description": "Departmental Directorate of Employment, Labour, and Professional Training responsible for assessing the employment situation in relation to work authorization requests.",
+        "country": "FR"
+      },
+      {
+        "id": "prefecture_paris",
+        "name": "Prefecture de Police de Paris",
+        "description": "Prefecture in Paris responsible for registering asylum applications, providing temporary residence permits, and handling immigration procedures.",
+        "country": "FR"
+      },
+      {
+        "id": "cnda",
+        "name": "Cour Nationale du Droit d'Asile (CNDA)",
+        "description": "National Court of Asylum Rights, a French administrative court that adjudicates appeals against decisions made by OFPRA regarding asylum applications.",
+        "country": "FR"
+      },
+      {
+        "id": "ministry_interior_fr",
+        "name": "Ministère de l'Intérieur",
+        "description": "French Ministry of the Interior, overseeing immigration, integration, and public order, including supervision of OFII and OFPRA.",
+        "country": "FR"
+      },
+      {
+        "id": "guda",
+        "name": "Guichet Unique pour Demandeurs d'Asile (GUDA)",
+        "description": "Single window for asylum seekers, integrating services from the Prefecture and OFII for processing asylum applications in France.",
+        "country": "FR"
+      },
+      {
+        "id": "spada",
+        "name": "Structure de Premier Accueil pour Demandeurs d'Asile (SPADA)",
+        "description": "First Reception Structure for Asylum Seekers, providing initial support and guidance to individuals seeking asylum in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ofii_morocco",
+        "name": "OFII Morocco",
+        "description": "OFII office in Morocco responsible for assisting with immigration procedures, including family reunification and return aid.",
+        "country": "MA"
+      },
+      {
+        "id": "ofii_tunisia",
+        "name": "OFII Tunisia",
+        "description": "OFII office in Tunisia assisting with immigration and integration procedures, particularly for Tunisians moving to France.",
+        "country": "TN"
+      },
+      {
+        "id": "ofii_turkey",
+        "name": "OFII Turkey",
+        "description": "OFII office in Turkey managing immigration processes, including family reunification, for Turkish nationals moving to France.",
+        "country": "TR"
+      },
+      {
+        "id": "ofii_mali",
+        "name": "OFII Mali",
+        "description": "OFII office in Mali providing services related to immigration and integration for Malian nationals moving to France.",
+        "country": "ML"
+      },
+      {
+        "id": "ofii_senegal",
+        "name": "OFII Senegal",
+        "description": "OFII office in Senegal involved in managing immigration procedures, including return and reintegration assistance for Senegalese nationals.",
+        "country": "SN"
+      },
+      {
+        "id": "ofii_cameroon",
+        "name": "OFII Cameroon",
+        "description": "OFII office in Cameroon responsible for supporting Cameroonian nationals with immigration procedures to France.",
+        "country": "CM"
+      },
+      {
+        "id": "ofii_armenia",
+        "name": "OFII Armenia",
+        "description": "OFII office in Armenia handling immigration processes, especially family reunification and integration for Armenians moving to France.",
+        "country": "AM"
+      },
+      {
+        "id": "asylum_seeker_support_fr",
+        "name": "Asylum Seeker Support Program France",
+        "description": "A French program managed by OFII providing housing, allowances, and administrative support to asylum seekers.",
+        "country": "FR"
+      },
+      {
+        "id": "caes",
+        "name": "Centre Administratif d’Examen des Situations (CAES)",
+        "description": "Administrative Center for Situation Examination providing asylum seekers with temporary accommodation and orientation.",
+        "country": "FR"
+      },
+      {
+        "id": "cada",
+        "name": "Centre d'Accueil pour Demandeurs d'Asile (CADA)",
+        "description": "Reception Center for Asylum Seekers providing housing and support services to individuals applying for asylum in France.",
+        "country": "FR"
+      },
+      {
+        "id": "prahda",
+        "name": "Programme d’Accueil et Hébergement des Demandeurs d'Asile (PRAHDA)",
+        "description": "Reception and Housing Program for Asylum Seekers offering emergency accommodation to individuals seeking asylum.",
+        "country": "FR"
+      },
+      {
+        "id": "dpaf",
+        "name": "Direction de la Police aux Frontières (DPAF)",
+        "description": "Directorate of Border Police responsible for managing and securing France's borders, including immigration controls.",
+        "country": "FR"
+      },
+      {
+        "id": "cnf",
+        "name": "Commission Nationale de la Fraternité (CNF)",
+        "description": "National Commission on Fraternity promoting integration and social cohesion in France.",
+        "country": "FR"
+      },
+      {
+        "id": "dares",
+        "name": "Direction de l'Animation de la Recherche, des Études et des Statistiques (DARES)",
+        "description": "Directorate for Research, Studies, and Statistics providing data and analysis on labor and social policies in France.",
+        "country": "FR"
+      },
+      {
+        "id": "pmi",
+        "name": "Protection Maternelle et Infantile (PMI)",
+        "description": "Maternal and Child Protection service providing healthcare and social support to mothers and children in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ddcs",
+        "name": "Direction Départementale de la Cohésion Sociale (DDCS)",
+        "description": "Departmental Directorate of Social Cohesion managing social integration and public welfare programs at the local level in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ars",
+        "name": "Agence Régionale de Santé (ARS)",
+        "description": "Regional Health Agency overseeing public health initiatives and healthcare services in various French regions.",
+        "country": "FR"
+      },
+      {
+        "id": "occrp",
+        "name": "Office Central pour la Répression de la Traite des Êtres Humains (OCRTEH)",
+        "description": "Central Office for the Repression of Trafficking in Human Beings, combating human trafficking and exploitation in France.",
+        "country": "FR"
+      },
+      {
+        "id": "adoma",
+        "name": "ADOMA",
+        "description": "Public company providing housing solutions for disadvantaged populations, including asylum seekers and refugees, in France.",
+        "country": "FR"
+      },
+      {
+        "id": "anlci",
+        "name": "Agence Nationale de Lutte Contre l'Illettrisme (ANLCI)",
+        "description": "National Agency for the Fight Against Illiteracy coordinating efforts to improve literacy among vulnerable populations in France.",
+        "country": "FR"
+      },
+      {
+        "id": "cegidd",
+        "name": "Centres Gratuit d’Information, de Dépistage et de Diagnostic (CEGIDD)",
+        "description": "Free Information, Testing, and Diagnostic Centers providing health services, including HIV testing, to the public in France.",
+        "country": "FR"
+      },
+      {
+        "id": "fnaeg",
+        "name": "Fichier National Automatisé des Empreintes Génétiques (FNAEG)",
+        "description": "National Automated DNA Database used by law enforcement in France for identifying individuals involved in criminal activities.",
+        "country": "FR"
+      },
+      {
+        "id": "addre",
+        "name": "Agence de Développement Rural et d’Environnement (ADDRE)",
+        "description": "Agency for Rural Development and Environment focusing on sustainable development projects in rural areas of France.",
+        "country": "FR"
+      },
+      {
+        "id": "onisr",
+        "name": "Observatoire National Interministériel de la Sécurité Routière (ONISR)",
+        "description": "National Interministerial Road Safety Observatory collecting and analyzing data to improve road safety in France.",
+        "country": "FR"
+      },
+      {
+        "id": "bras",
+        "name": "Brigade de Répression de l'Activité Sexuelle (BRAS)",
+        "description": "Brigade responsible for combating illegal sexual activities and trafficking in France.",
+        "country": "FR"
+      },
+      {
+        "id": "casnav",
+        "name": "Centres Académiques pour la Scolarisation des Nouveaux Arrivants et des enfants du Voyage (CASNAV)",
+        "description": "Academic Centers for the Schooling of New Arrivals and Traveller Children supporting educational integration in France.",
+        "country": "FR"
+      },
+      {
+        "id": "samu_social",
+        "name": "SAMU Social",
+        "description": "Emergency social service providing assistance and shelter to homeless individuals and vulnerable populations in France.",
+        "country": "FR"
+      },
+      {
+        "id": "onpe",
+        "name": "Observatoire National de la Protection de l’Enfance (ONPE)",
+        "description": "National Observatory for Child Protection monitoring and promoting the protection of children's rights in France.",
+        "country": "FR"
+      },
+      {
+        "id": "france_terres_dasile",
+        "name": "France Terre d'Asile",
+        "description": "Organization assisting with the reception and integration of refugees and asylum seekers in France.",
+        "country": "FR"
+      },
+      {
+        "id": "daf",
+        "name": "Direction des Affaires Financières (DAF)",
+        "description": "Directorate of Financial Affairs managing financial operations and budgeting for public services in France.",
+        "country": "FR"
+      },
+      {
+        "id": "drieets",
+        "name": "Direction Régionale Interdépartementale de l’Économie, de l'Emploi, du Travail et des Solidarités (DRIEETS)",
+        "description": "Regional Directorate managing economic development, employment, labor, and social cohesion in several French regions.",
+        "country": "FR"
+      },
+      {
+        "id": "ona",
+        "name": "Office National de l'Artisanat (ONA)",
+        "description": "National Office of Craftsmanship promoting and supporting the development of the artisan sector in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ins",
+        "name": "Institut National de la Statistique (INS)",
+        "description": "National Institute of Statistics responsible for collecting and analyzing statistical data across various sectors in France.",
+        "country": "FR"
+      },
+      {
+        "id": "dila",
+        "name": "Direction de l’Information Légale et Administrative (DILA)",
+        "description": "Directorate of Legal and Administrative Information providing official government publications and managing public records in France.",
+        "country": "FR"
+      },
+      {
+        "id": "cnil",
+        "name": "Commission Nationale de l'Informatique et des Libertés (CNIL)",
+        "description": "National Commission for Information Technology and Liberties overseeing data protection and privacy rights in France.",
+        "country": "FR"
+      },
+      {
+        "id": "dap",
+        "name": "Direction de l'Administration Pénitentiaire (DAP)",
+        "description": "Directorate of Prison Administration managing correctional facilities and overseeing the implementation of justice in France.",
+        "country": "FR"
+      },
+      {
+        "id": "ircan",
+        "name": "Institut de Recherche sur les Cancers (IRCAN)",
+        "description": "Research Institute focused on cancer research and treatment innovation in France.",
+        "country": "FR"
+      },
+      {
+        "id": "oclc",
+        "name": "Office Central de Lutte contre la Criminalité (OCLC)",
+        "description": "Central Office for Combating Crime coordinating national efforts to tackle organized crime in France.",
+        "country": "FR"
+      }
+    ]
+  }
+}
